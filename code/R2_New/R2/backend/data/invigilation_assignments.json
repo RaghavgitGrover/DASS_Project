@@ -1,0 +1,2800 @@
+{
+  "25fab040-b28e-4c57-88e3-51efeb5b6bbb": {
+    "id": "25fab040-b28e-4c57-88e3-51efeb5b6bbb",
+    "timestamp": "2025-04-19T12:54:57.281Z",
+    "name": "Invigilation for Seating for Timetable - Apr 19, 2025, 03:13:39 PM",
+    "seatingArrangementId": "bc152b83-4fe5-49fe-bdcc-610f2d38423f",
+    "invigilation": {
+      "day1": {
+        "slot1": {
+          "1": {
+            "roomName": "319",
+            "invigilators": [
+              {
+                "name": "Ramesh Loganathan",
+                "type": "faculty"
+              },
+              {
+                "name": "Madhu Babu D",
+                "type": "staff"
+              }
+            ]
+          },
+          "2": {
+            "roomName": "A3 301",
+            "invigilators": [
+              {
+                "name": "Rakesh Kiran Chand Thumaty",
+                "type": "faculty"
+              },
+              {
+                "name": "Vatala Venkata Nagaraju",
+                "type": "staff"
+              }
+            ]
+          },
+          "3": {
+            "roomName": "B4 301",
+            "invigilators": [
+              {
+                "name": "Deepak Gangadharan",
+                "type": "faculty"
+              },
+              {
+                "name": "Venugopal M",
+                "type": "staff"
+              }
+            ]
+          },
+          "4": {
+            "roomName": "B4 304",
+            "invigilators": [
+              {
+                "name": "Rajakrishnan P Rajkumar",
+                "type": "faculty"
+              },
+              {
+                "name": "Venugopal Reddy K",
+                "type": "staff"
+              }
+            ]
+          },
+          "5": {
+            "roomName": "B6 309",
+            "invigilators": [
+              {
+                "name": "Anshu Sarje",
+                "type": "faculty"
+              },
+              {
+                "name": "Shankari Sireesha",
+                "type": "staff"
+              }
+            ]
+          },
+          "6": {
+            "roomName": "CR 1",
+            "invigilators": [
+              {
+                "name": "Isha Dubey",
+                "type": "faculty"
+              },
+              {
+                "name": "Vijaya Sekhar K S",
+                "type": "staff"
+              }
+            ]
+          },
+          "7": {
+            "roomName": "H 101",
+            "invigilators": [
+              {
+                "name": "Vikram Pudi",
+                "type": "faculty"
+              },
+              {
+                "name": "Venkata Seshu Kumar",
+                "type": "staff"
+              }
+            ]
+          },
+          "8": {
+            "roomName": "H 102",
+            "invigilators": [
+              {
+                "name": "Priyanka Srivastava",
+                "type": "faculty"
+              },
+              {
+                "name": "Bhavani Pullabhatla",
+                "type": "staff"
+              }
+            ]
+          },
+          "9": {
+            "roomName": "H 103",
+            "invigilators": [
+              {
+                "name": "Venkata Suresh Reddy Purini",
+                "type": "faculty"
+              },
+              {
+                "name": "Lalitha Gutha",
+                "type": "staff"
+              }
+            ]
+          },
+          "10": {
+            "roomName": "H 104",
+            "invigilators": [
+              {
+                "name": "Santosh Nannuru",
+                "type": "faculty"
+              },
+              {
+                "name": "Mohana Vamsi U",
+                "type": "staff"
+              }
+            ]
+          },
+          "11": {
+            "roomName": "H 105",
+            "invigilators": [
+              {
+                "name": "Nimmi Rangaswamy",
+                "type": "faculty"
+              },
+              {
+                "name": "Vamsi Krishna Nelluri",
+                "type": "staff"
+              }
+            ]
+          },
+          "12": {
+            "roomName": "H 201",
+            "invigilators": [
+              {
+                "name": "Anirban Dasgupta",
+                "type": "faculty"
+              },
+              {
+                "name": "Md. Abdul Kaleem",
+                "type": "staff"
+              }
+            ]
+          },
+          "13": {
+            "roomName": "H 202",
+            "invigilators": [
+              {
+                "name": "Aakansha Natani",
+                "type": "faculty"
+              },
+              {
+                "name": "Naragudem Mallesham",
+                "type": "staff"
+              }
+            ]
+          }
+        },
+        "slot2": {
+          "1": {
+            "roomName": "319",
+            "invigilators": [
+              {
+                "name": "Aftab M. Hussain",
+                "type": "faculty"
+              },
+              {
+                "name": "Venugopal Kodakalla",
+                "type": "staff"
+              }
+            ]
+          },
+          "2": {
+            "roomName": "A3 301",
+            "invigilators": [
+              {
+                "name": "Aniket Alam",
+                "type": "faculty"
+              },
+              {
+                "name": "Akhil A",
+                "type": "staff"
+              }
+            ]
+          },
+          "3": {
+            "roomName": "B4 301",
+            "invigilators": [
+              {
+                "name": "Diganta Das",
+                "type": "faculty"
+              },
+              {
+                "name": "Ashok Pentam",
+                "type": "staff"
+              }
+            ]
+          },
+          "4": {
+            "roomName": "B4 304",
+            "invigilators": [
+              {
+                "name": "Indranil Chakrabarty",
+                "type": "faculty"
+              },
+              {
+                "name": "Santosh Kumar Ladi",
+                "type": "staff"
+              }
+            ]
+          },
+          "5": {
+            "roomName": "B6 309",
+            "invigilators": [
+              {
+                "name": "Prabhakar Bhimalapuram",
+                "type": "faculty"
+              },
+              {
+                "name": "Parvathi Prasad",
+                "type": "staff"
+              }
+            ]
+          },
+          "6": {
+            "roomName": "CR 1",
+            "invigilators": [
+              {
+                "name": "Aditi Mukherjee",
+                "type": "faculty"
+              },
+              {
+                "name": "Golla Srinivas",
+                "type": "staff"
+              }
+            ]
+          },
+          "7": {
+            "roomName": "H 101",
+            "invigilators": [
+              {
+                "name": "Abhishek Kr Singh",
+                "type": "faculty"
+              },
+              {
+                "name": "Rambabu P V S",
+                "type": "staff"
+              }
+            ]
+          },
+          "8": {
+            "roomName": "H 102",
+            "invigilators": [
+              {
+                "name": "Santosh Nannuru",
+                "type": "faculty"
+              },
+              {
+                "name": "Prashant Ranjan",
+                "type": "staff"
+              }
+            ]
+          },
+          "9": {
+            "roomName": "H 103",
+            "invigilators": [
+              {
+                "name": "Ashwin Jayanti",
+                "type": "faculty"
+              },
+              {
+                "name": "Pranjali Kanade",
+                "type": "staff"
+              }
+            ]
+          },
+          "10": {
+            "roomName": "H 104",
+            "invigilators": [
+              {
+                "name": "Raman Saxena",
+                "type": "faculty"
+              },
+              {
+                "name": "Kumaraswamy D",
+                "type": "staff"
+              }
+            ]
+          },
+          "11": {
+            "roomName": "H 105",
+            "invigilators": [
+              {
+                "name": "Rahul Shrestha",
+                "type": "faculty"
+              },
+              {
+                "name": "GBV Raju",
+                "type": "staff"
+              }
+            ]
+          },
+          "12": {
+            "roomName": "H 201",
+            "invigilators": [
+              {
+                "name": "Sachin Chaudhari",
+                "type": "faculty"
+              },
+              {
+                "name": "Karthik Raj Pasumala",
+                "type": "staff"
+              }
+            ]
+          },
+          "13": {
+            "roomName": "H 202",
+            "invigilators": [
+              {
+                "name": "Ankit Gangwal",
+                "type": "faculty"
+              },
+              {
+                "name": "Lakshmana Kumar S",
+                "type": "staff"
+              }
+            ]
+          },
+          "14": {
+            "roomName": "H 203",
+            "invigilators": [
+              {
+                "name": "Makarand Tapaswi",
+                "type": "faculty"
+              },
+              {
+                "name": "Ankit Singh",
+                "type": "staff"
+              }
+            ]
+          }
+        }
+      },
+      "day2": {
+        "slot1": {
+          "1": {
+            "roomName": "319",
+            "invigilators": [
+              {
+                "name": "Ponnurangam Kumaraguru",
+                "type": "faculty"
+              },
+              {
+                "name": "Venkata Seshu Kumar",
+                "type": "staff"
+              }
+            ]
+          },
+          "2": {
+            "roomName": "A3 301",
+            "invigilators": [
+              {
+                "name": "Suryajith Chillara",
+                "type": "faculty"
+              },
+              {
+                "name": "Parvathi Prasad",
+                "type": "staff"
+              }
+            ]
+          },
+          "3": {
+            "roomName": "B4 301",
+            "invigilators": [
+              {
+                "name": "Vinod Palakkad Krishnanunni",
+                "type": "faculty"
+              },
+              {
+                "name": "Bhavani Pullabhatla",
+                "type": "staff"
+              }
+            ]
+          },
+          "4": {
+            "roomName": "B4 304",
+            "invigilators": [
+              {
+                "name": "Vasudeva Varma Kalidindi",
+                "type": "faculty"
+              },
+              {
+                "name": "Kanika Gupta",
+                "type": "staff"
+              }
+            ]
+          },
+          "5": {
+            "roomName": "B6 309",
+            "invigilators": [
+              {
+                "name": "Rahul Shrestha",
+                "type": "faculty"
+              },
+              {
+                "name": "Ashish Rath",
+                "type": "staff"
+              }
+            ]
+          },
+          "6": {
+            "roomName": "CR 1",
+            "invigilators": [
+              {
+                "name": "Priyanka Srivastava",
+                "type": "faculty"
+              },
+              {
+                "name": "Prabhakar Nampalli",
+                "type": "staff"
+              }
+            ]
+          },
+          "7": {
+            "roomName": "H 101",
+            "invigilators": [
+              {
+                "name": "Isha Dubey",
+                "type": "faculty"
+              },
+              {
+                "name": "Girish Byrappa",
+                "type": "staff"
+              }
+            ]
+          },
+          "8": {
+            "roomName": "H 102",
+            "invigilators": [
+              {
+                "name": "Aakansha Natani",
+                "type": "faculty"
+              },
+              {
+                "name": "Kavitha D",
+                "type": "staff"
+              }
+            ]
+          },
+          "9": {
+            "roomName": "H 103",
+            "invigilators": [
+              {
+                "name": "Kamalakar Karlapalem",
+                "type": "faculty"
+              },
+              {
+                "name": "Shailaja Banalu",
+                "type": "staff"
+              }
+            ]
+          },
+          "10": {
+            "roomName": "H 104",
+            "invigilators": [
+              {
+                "name": "Radhika Krishnan",
+                "type": "faculty"
+              },
+              {
+                "name": "Kanakaiah Manthri",
+                "type": "staff"
+              }
+            ]
+          },
+          "11": {
+            "roomName": "H 105",
+            "invigilators": [
+              {
+                "name": "Anirban Dasgupta",
+                "type": "faculty"
+              },
+              {
+                "name": "Krishna Sireesha Salaka",
+                "type": "staff"
+              }
+            ]
+          },
+          "12": {
+            "roomName": "H 201",
+            "invigilators": [
+              {
+                "name": "Abhishek Kr Singh",
+                "type": "faculty"
+              },
+              {
+                "name": "Jithender Rao P",
+                "type": "staff"
+              }
+            ]
+          },
+          "13": {
+            "roomName": "H 202",
+            "invigilators": [
+              {
+                "name": "Kshitij Gajjar",
+                "type": "faculty"
+              },
+              {
+                "name": "Bhaskar Prasad M",
+                "type": "staff"
+              }
+            ]
+          },
+          "14": {
+            "roomName": "H 203",
+            "invigilators": [
+              {
+                "name": "Anshu Sarje",
+                "type": "faculty"
+              },
+              {
+                "name": "Bal Santosh B",
+                "type": "staff"
+              }
+            ]
+          },
+          "15": {
+            "roomName": "H 204",
+            "invigilators": [
+              {
+                "name": "Anil Kumar Vuppala",
+                "type": "faculty"
+              },
+              {
+                "name": "Mohana Vamsi U",
+                "type": "staff"
+              }
+            ]
+          },
+          "16": {
+            "roomName": "H 205",
+            "invigilators": [
+              {
+                "name": "Vikram Pudi",
+                "type": "faculty"
+              },
+              {
+                "name": "Raja Prasada Rao Poladi",
+                "type": "staff"
+              }
+            ]
+          }
+        },
+        "slot2": {
+          "1": {
+            "roomName": "319",
+            "invigilators": [
+              {
+                "name": "Radhika Mamidi",
+                "type": "faculty"
+              },
+              {
+                "name": "Prabhakar Mootakoori",
+                "type": "staff"
+              }
+            ]
+          },
+          "2": {
+            "roomName": "A3 301",
+            "invigilators": [
+              {
+                "name": "Narayanan P J",
+                "type": "faculty"
+              },
+              {
+                "name": "Srikanth K",
+                "type": "staff"
+              }
+            ]
+          },
+          "3": {
+            "roomName": "B4 301",
+            "invigilators": [
+              {
+                "name": "Ramesh Loganathan",
+                "type": "faculty"
+              },
+              {
+                "name": "Lakshmana Kumar S",
+                "type": "staff"
+              }
+            ]
+          },
+          "4": {
+            "roomName": "B4 304",
+            "invigilators": [
+              {
+                "name": "Lini Teresa Thomas",
+                "type": "faculty"
+              },
+              {
+                "name": "Preetham Raj Ramraj",
+                "type": "staff"
+              }
+            ]
+          },
+          "5": {
+            "roomName": "B6 309",
+            "invigilators": [
+              {
+                "name": "Harjinder Singh",
+                "type": "faculty"
+              },
+              {
+                "name": "Thakur Balaji Singh",
+                "type": "staff"
+              }
+            ]
+          },
+          "6": {
+            "roomName": "CR 1",
+            "invigilators": [
+              {
+                "name": "Parameswari Krishnamurthy",
+                "type": "faculty"
+              },
+              {
+                "name": "Jayaprakash P",
+                "type": "staff"
+              }
+            ]
+          },
+          "7": {
+            "roomName": "H 101",
+            "invigilators": [
+              {
+                "name": "P Pravin Kumar Venkat Rao",
+                "type": "faculty"
+              },
+              {
+                "name": "Poojitha Akula",
+                "type": "staff"
+              }
+            ]
+          },
+          "8": {
+            "roomName": "H 102",
+            "invigilators": [
+              {
+                "name": "Kannan Srinathan",
+                "type": "faculty"
+              },
+              {
+                "name": "Satish Kumar G",
+                "type": "staff"
+              }
+            ]
+          },
+          "9": {
+            "roomName": "H 103",
+            "invigilators": [
+              {
+                "name": "Ponnurangam Kumaraguru",
+                "type": "faculty"
+              },
+              {
+                "name": "Lalitha Gutha",
+                "type": "staff"
+              }
+            ]
+          }
+        }
+      },
+      "day3": {
+        "slot1": {
+          "1": {
+            "roomName": "319",
+            "invigilators": [
+              {
+                "name": "Shubham Singhal",
+                "type": "faculty"
+              },
+              {
+                "name": "Sriranjani K",
+                "type": "staff"
+              }
+            ]
+          },
+          "2": {
+            "roomName": "A3 301",
+            "invigilators": [
+              {
+                "name": "K Madhava Krishna",
+                "type": "faculty"
+              },
+              {
+                "name": "Papinaidu Koduru",
+                "type": "staff"
+              }
+            ]
+          },
+          "3": {
+            "roomName": "B4 301",
+            "invigilators": [
+              {
+                "name": "Viswanath Kasturi",
+                "type": "faculty"
+              },
+              {
+                "name": "Satish Kumar K",
+                "type": "staff"
+              }
+            ]
+          },
+          "4": {
+            "roomName": "B4 304",
+            "invigilators": [
+              {
+                "name": "Krishna Reddy Polepalli",
+                "type": "faculty"
+              },
+              {
+                "name": "Ashish Rath",
+                "type": "staff"
+              }
+            ]
+          },
+          "5": {
+            "roomName": "B6 309",
+            "invigilators": [
+              {
+                "name": "Girish Varma",
+                "type": "faculty"
+              },
+              {
+                "name": "Muralidhar G",
+                "type": "staff"
+              }
+            ]
+          },
+          "6": {
+            "roomName": "CR 1",
+            "invigilators": [
+              {
+                "name": "Anil Kumar Vuppala",
+                "type": "faculty"
+              },
+              {
+                "name": "Kasula Srinivas",
+                "type": "staff"
+              }
+            ]
+          },
+          "7": {
+            "roomName": "H 101",
+            "invigilators": [
+              {
+                "name": "Sushmita Banerji",
+                "type": "faculty"
+              },
+              {
+                "name": "Santosh Kumar Ladi",
+                "type": "staff"
+              }
+            ]
+          },
+          "8": {
+            "roomName": "H 102",
+            "invigilators": [
+              {
+                "name": "Prasad Krishnan",
+                "type": "faculty"
+              },
+              {
+                "name": "Abdul Rahman Md.",
+                "type": "staff"
+              }
+            ]
+          },
+          "9": {
+            "roomName": "H 103",
+            "invigilators": [
+              {
+                "name": "Pawan Kumar",
+                "type": "faculty"
+              },
+              {
+                "name": "Madhu Babu D",
+                "type": "staff"
+              }
+            ]
+          }
+        },
+        "slot2": {
+          "1": {
+            "roomName": "319",
+            "invigilators": [
+              {
+                "name": "Shatrunjay Rawat",
+                "type": "faculty"
+              },
+              {
+                "name": "Abdul Rahman Md.",
+                "type": "staff"
+              }
+            ]
+          },
+          "2": {
+            "roomName": "A3 301",
+            "invigilators": [
+              {
+                "name": "Parameswari Krishnamurthy",
+                "type": "faculty"
+              },
+              {
+                "name": "Guruprasad J",
+                "type": "staff"
+              }
+            ]
+          },
+          "3": {
+            "roomName": "B4 301",
+            "invigilators": [
+              {
+                "name": "Raghu Babu Reddy Y",
+                "type": "faculty"
+              },
+              {
+                "name": "Muralidhar G",
+                "type": "staff"
+              }
+            ]
+          },
+          "4": {
+            "roomName": "B4 304",
+            "invigilators": [
+              {
+                "name": "Nimmi Rangaswamy",
+                "type": "faculty"
+              },
+              {
+                "name": "Girish Byrappa",
+                "type": "staff"
+              }
+            ]
+          },
+          "5": {
+            "roomName": "B6 309",
+            "invigilators": [
+              {
+                "name": "Anoop Namboodiri",
+                "type": "faculty"
+              },
+              {
+                "name": "Gopala Rao Kagana",
+                "type": "staff"
+              }
+            ]
+          },
+          "6": {
+            "roomName": "CR 1",
+            "invigilators": [
+              {
+                "name": "Antony Thomas",
+                "type": "faculty"
+              },
+              {
+                "name": "Kumaraswamy D",
+                "type": "staff"
+              }
+            ]
+          },
+          "7": {
+            "roomName": "H 101",
+            "invigilators": [
+              {
+                "name": "Nagamanikandan Govindan",
+                "type": "faculty"
+              },
+              {
+                "name": "Shaik Silar",
+                "type": "staff"
+              }
+            ]
+          },
+          "8": {
+            "roomName": "H 102",
+            "invigilators": [
+              {
+                "name": "Kuldeep Ramchandra Kurte",
+                "type": "faculty"
+              },
+              {
+                "name": "Vatala Venkata Nagaraju",
+                "type": "staff"
+              }
+            ]
+          },
+          "9": {
+            "roomName": "H 103",
+            "invigilators": [
+              {
+                "name": "Lini Teresa Thomas",
+                "type": "faculty"
+              },
+              {
+                "name": "Ankit Singh",
+                "type": "staff"
+              }
+            ]
+          },
+          "10": {
+            "roomName": "H 104",
+            "invigilators": [
+              {
+                "name": "Prasad Krishnan",
+                "type": "faculty"
+              },
+              {
+                "name": "Shankari Sireesha",
+                "type": "staff"
+              }
+            ]
+          },
+          "11": {
+            "roomName": "H 105",
+            "invigilators": [
+              {
+                "name": "Ashok Kumar Das",
+                "type": "faculty"
+              },
+              {
+                "name": "Bhaskar Prasad M",
+                "type": "staff"
+              }
+            ]
+          },
+          "12": {
+            "roomName": "H 201",
+            "invigilators": [
+              {
+                "name": "Vinoo Alluri R",
+                "type": "faculty"
+              },
+              {
+                "name": "Manoj Kumar K",
+                "type": "staff"
+              }
+            ]
+          },
+          "13": {
+            "roomName": "H 202",
+            "invigilators": [
+              {
+                "name": "Avinash Sharma",
+                "type": "faculty"
+              },
+              {
+                "name": "Kanakaiah Manthri",
+                "type": "staff"
+              }
+            ]
+          },
+          "14": {
+            "roomName": "H 203",
+            "invigilators": [
+              {
+                "name": "Karthik Vaidhyanathan",
+                "type": "faculty"
+              },
+              {
+                "name": "Surya Prakash Vattem",
+                "type": "staff"
+              }
+            ]
+          },
+          "15": {
+            "roomName": "H 204",
+            "invigilators": [
+              {
+                "name": "Venkata Suresh Reddy Purini",
+                "type": "faculty"
+              },
+              {
+                "name": "Asha Namboodiri",
+                "type": "staff"
+              }
+            ]
+          }
+        }
+      },
+      "day4": {
+        "slot1": {
+          "1": {
+            "roomName": "319",
+            "invigilators": [
+              {
+                "name": "Nazia Akhtar",
+                "type": "faculty"
+              },
+              {
+                "name": "Asima Sherali",
+                "type": "staff"
+              }
+            ]
+          },
+          "2": {
+            "roomName": "A3 301",
+            "invigilators": [
+              {
+                "name": "Venkatesh Choppella",
+                "type": "faculty"
+              },
+              {
+                "name": "Sastry K C M",
+                "type": "staff"
+              }
+            ]
+          },
+          "3": {
+            "roomName": "B4 301",
+            "invigilators": [
+              {
+                "name": "Kishore Kothapalli",
+                "type": "faculty"
+              },
+              {
+                "name": "Asha Namboodiri",
+                "type": "staff"
+              }
+            ]
+          },
+          "4": {
+            "roomName": "B4 304",
+            "invigilators": [
+              {
+                "name": "Aditi Mukherjee",
+                "type": "faculty"
+              },
+              {
+                "name": "Karthik Raj Pasumala",
+                "type": "staff"
+              }
+            ]
+          },
+          "5": {
+            "roomName": "B6 309",
+            "invigilators": [
+              {
+                "name": "Sachin Chaudhari",
+                "type": "faculty"
+              },
+              {
+                "name": "Kirankumar Tankashala",
+                "type": "staff"
+              }
+            ]
+          },
+          "6": {
+            "roomName": "CR 1",
+            "invigilators": [
+              {
+                "name": "Praveen Paruchuri",
+                "type": "faculty"
+              },
+              {
+                "name": "Srinivasarao G",
+                "type": "staff"
+              }
+            ]
+          },
+          "7": {
+            "roomName": "H 101",
+            "invigilators": [
+              {
+                "name": "Radhika Krishnan",
+                "type": "faculty"
+              },
+              {
+                "name": "Murthy P L",
+                "type": "staff"
+              }
+            ]
+          },
+          "8": {
+            "roomName": "H 102",
+            "invigilators": [
+              {
+                "name": "Harikumar Kandath",
+                "type": "faculty"
+              },
+              {
+                "name": "Srikanth Gundu",
+                "type": "staff"
+              }
+            ]
+          },
+          "9": {
+            "roomName": "H 103",
+            "invigilators": [
+              {
+                "name": "Ashok Kumar Das",
+                "type": "faculty"
+              },
+              {
+                "name": "Sudha Chandrasekhar",
+                "type": "staff"
+              }
+            ]
+          },
+          "10": {
+            "roomName": "H 104",
+            "invigilators": [
+              {
+                "name": "Anoop Namboodiri",
+                "type": "faculty"
+              },
+              {
+                "name": "Ramana V V",
+                "type": "staff"
+              }
+            ]
+          },
+          "11": {
+            "roomName": "H 105",
+            "invigilators": [
+              {
+                "name": "Praful Mankar",
+                "type": "faculty"
+              },
+              {
+                "name": "Swathi Bellam",
+                "type": "staff"
+              }
+            ]
+          },
+          "12": {
+            "roomName": "H 201",
+            "invigilators": [
+              {
+                "name": "Sushmita Banerji",
+                "type": "faculty"
+              },
+              {
+                "name": "Revanth Nethala",
+                "type": "staff"
+              }
+            ]
+          },
+          "13": {
+            "roomName": "H 202",
+            "invigilators": [
+              {
+                "name": "Rajorshi Ray",
+                "type": "faculty"
+              },
+              {
+                "name": "Mathimalar S",
+                "type": "staff"
+              }
+            ]
+          },
+          "14": {
+            "roomName": "H 203",
+            "invigilators": [
+              {
+                "name": "Vinod Palakkad Krishnanunni",
+                "type": "faculty"
+              },
+              {
+                "name": "Nadeem Hussain Mohd",
+                "type": "staff"
+              }
+            ]
+          }
+        },
+        "slot2": {
+          "1": {
+            "roomName": "319",
+            "invigilators": [
+              {
+                "name": "Deepak Gangadharan",
+                "type": "faculty"
+              },
+              {
+                "name": "Golla Srinivas",
+                "type": "staff"
+              }
+            ]
+          },
+          "2": {
+            "roomName": "A3 301",
+            "invigilators": [
+              {
+                "name": "Shantanav Chakraborty",
+                "type": "faculty"
+              },
+              {
+                "name": "Poojitha Akula",
+                "type": "staff"
+              }
+            ]
+          },
+          "3": {
+            "roomName": "B4 301",
+            "invigilators": [
+              {
+                "name": "Vishnu Sreekumar",
+                "type": "faculty"
+              },
+              {
+                "name": "Devi Prasad T V",
+                "type": "staff"
+              }
+            ]
+          },
+          "4": {
+            "roomName": "B4 304",
+            "invigilators": [
+              {
+                "name": "Pawan Kumar",
+                "type": "faculty"
+              },
+              {
+                "name": "Prabhakar Nampalli",
+                "type": "staff"
+              }
+            ]
+          },
+          "5": {
+            "roomName": "B6 309",
+            "invigilators": [
+              {
+                "name": "Antony Thomas",
+                "type": "faculty"
+              },
+              {
+                "name": "Shanmukh Rao P",
+                "type": "staff"
+              }
+            ]
+          },
+          "6": {
+            "roomName": "CR 1",
+            "invigilators": [
+              {
+                "name": "Raghu Babu Reddy Y",
+                "type": "faculty"
+              },
+              {
+                "name": "Bhanu Pratap Sharma",
+                "type": "staff"
+              }
+            ]
+          },
+          "7": {
+            "roomName": "H 101",
+            "invigilators": [
+              {
+                "name": "Vineet Gandhi",
+                "type": "faculty"
+              },
+              {
+                "name": "Srinivasulu V A",
+                "type": "staff"
+              }
+            ]
+          }
+        }
+      },
+      "day5": {
+        "slot1": {
+          "1": {
+            "roomName": "319",
+            "invigilators": [
+              {
+                "name": "Radhika Mamidi",
+                "type": "faculty"
+              },
+              {
+                "name": "Srikanth K",
+                "type": "staff"
+              }
+            ]
+          },
+          "2": {
+            "roomName": "A3 301",
+            "invigilators": [
+              {
+                "name": "Kavita Vemuri",
+                "type": "faculty"
+              },
+              {
+                "name": "Sriranjani K",
+                "type": "staff"
+              }
+            ]
+          },
+          "3": {
+            "roomName": "B4 301",
+            "invigilators": [
+              {
+                "name": "K Madhava Krishna",
+                "type": "faculty"
+              },
+              {
+                "name": "Ashok Pentam",
+                "type": "staff"
+              }
+            ]
+          },
+          "4": {
+            "roomName": "B4 304",
+            "invigilators": [
+              {
+                "name": "Aniket Alam",
+                "type": "faculty"
+              },
+              {
+                "name": "Sridhar Kora",
+                "type": "staff"
+              }
+            ]
+          },
+          "5": {
+            "roomName": "B6 309",
+            "invigilators": [
+              {
+                "name": "Ashwin Jayanti",
+                "type": "faculty"
+              },
+              {
+                "name": "Grace Nalini B",
+                "type": "staff"
+              }
+            ]
+          },
+          "6": {
+            "roomName": "CR 1",
+            "invigilators": [
+              {
+                "name": "Diganta Das",
+                "type": "faculty"
+              },
+              {
+                "name": "Akhil A",
+                "type": "staff"
+              }
+            ]
+          },
+          "7": {
+            "roomName": "H 101",
+            "invigilators": [
+              {
+                "name": "Rakesh Kiran Chand Thumaty",
+                "type": "faculty"
+              },
+              {
+                "name": "Rajesh P",
+                "type": "staff"
+              }
+            ]
+          },
+          "8": {
+            "roomName": "H 102",
+            "invigilators": [
+              {
+                "name": "Arti Yardi",
+                "type": "faculty"
+              },
+              {
+                "name": "V Murali Mohan",
+                "type": "staff"
+              }
+            ]
+          },
+          "9": {
+            "roomName": "H 103",
+            "invigilators": [
+              {
+                "name": "Vishal Garg",
+                "type": "faculty"
+              },
+              {
+                "name": "Kanika Gupta",
+                "type": "staff"
+              }
+            ]
+          },
+          "10": {
+            "roomName": "H 104",
+            "invigilators": [
+              {
+                "name": "Prabhakar Bhimalapuram",
+                "type": "faculty"
+              },
+              {
+                "name": "Vijaya Sekhar K S",
+                "type": "staff"
+              }
+            ]
+          },
+          "11": {
+            "roomName": "H 105",
+            "invigilators": [
+              {
+                "name": "P Pravin Kumar Venkat Rao",
+                "type": "faculty"
+              },
+              {
+                "name": "Saikumar Ravu",
+                "type": "staff"
+              }
+            ]
+          },
+          "12": {
+            "roomName": "H 201",
+            "invigilators": [
+              {
+                "name": "Gowtham Raghunath Kurri",
+                "type": "faculty"
+              },
+              {
+                "name": "Murthy P L",
+                "type": "staff"
+              }
+            ]
+          },
+          "13": {
+            "roomName": "H 202",
+            "invigilators": [
+              {
+                "name": "Karthik Vaidhyanathan",
+                "type": "faculty"
+              },
+              {
+                "name": "Venugopal Kodakalla",
+                "type": "staff"
+              }
+            ]
+          },
+          "14": {
+            "roomName": "H 203",
+            "invigilators": [
+              {
+                "name": "Manish Shrivastava",
+                "type": "faculty"
+              },
+              {
+                "name": "Srinivasarao G",
+                "type": "staff"
+              }
+            ]
+          },
+          "15": {
+            "roomName": "H 204",
+            "invigilators": [
+              {
+                "name": "Priyesh Shukla",
+                "type": "faculty"
+              },
+              {
+                "name": "Shailaja Banalu",
+                "type": "staff"
+              }
+            ]
+          }
+        },
+        "slot2": {
+          "1": {
+            "roomName": "319",
+            "invigilators": [
+              {
+                "name": "Gowtham Raghunath Kurri",
+                "type": "faculty"
+              },
+              {
+                "name": "Srinivas K",
+                "type": "staff"
+              }
+            ]
+          },
+          "2": {
+            "roomName": "A3 301",
+            "invigilators": [
+              {
+                "name": "Tejas Bodas",
+                "type": "faculty"
+              },
+              {
+                "name": "Hari Prasad V",
+                "type": "staff"
+              }
+            ]
+          },
+          "3": {
+            "roomName": "B4 301",
+            "invigilators": [
+              {
+                "name": "Abhishek Srivastava",
+                "type": "faculty"
+              },
+              {
+                "name": "Sathish Kumar Palasa",
+                "type": "staff"
+              }
+            ]
+          },
+          "4": {
+            "roomName": "B4 304",
+            "invigilators": [
+              {
+                "name": "Nazia Akhtar",
+                "type": "faculty"
+              },
+              {
+                "name": "Darga Mahesh",
+                "type": "staff"
+              }
+            ]
+          },
+          "5": {
+            "roomName": "B6 309",
+            "invigilators": [
+              {
+                "name": "Shantanav Chakraborty",
+                "type": "faculty"
+              },
+              {
+                "name": "Sailaja N",
+                "type": "staff"
+              }
+            ]
+          },
+          "6": {
+            "roomName": "CR 1",
+            "invigilators": [
+              {
+                "name": "Abhishek Deshpande",
+                "type": "faculty"
+              },
+              {
+                "name": "Rambabu P V S",
+                "type": "staff"
+              }
+            ]
+          },
+          "7": {
+            "roomName": "H 101",
+            "invigilators": [
+              {
+                "name": "Shatrunjay Rawat",
+                "type": "faculty"
+              },
+              {
+                "name": "Lakshmi Narasimha Rao Yerra",
+                "type": "staff"
+              }
+            ]
+          },
+          "8": {
+            "roomName": "H 102",
+            "invigilators": [
+              {
+                "name": "Abhijit Mitra",
+                "type": "faculty"
+              },
+              {
+                "name": "Guruprasad J",
+                "type": "staff"
+              }
+            ]
+          },
+          "9": {
+            "roomName": "H 103",
+            "invigilators": [
+              {
+                "name": "Naresh Manwani",
+                "type": "faculty"
+              },
+              {
+                "name": "Nalini Kumar P",
+                "type": "staff"
+              }
+            ]
+          },
+          "10": {
+            "roomName": "H 104",
+            "invigilators": [
+              {
+                "name": "Priyesh Shukla",
+                "type": "faculty"
+              },
+              {
+                "name": "Venkata Naga Durga Valli Ch",
+                "type": "staff"
+              }
+            ]
+          }
+        }
+      },
+      "day6": {
+        "slot1": {
+          "1": {
+            "roomName": "319",
+            "invigilators": [
+              {
+                "name": "Dipti Mishra Sharma",
+                "type": "faculty"
+              },
+              {
+                "name": "Grace Nalini B",
+                "type": "staff"
+              }
+            ]
+          },
+          "2": {
+            "roomName": "A3 301",
+            "invigilators": [
+              {
+                "name": "Arti Yardi",
+                "type": "faculty"
+              },
+              {
+                "name": "Prathima M V L",
+                "type": "staff"
+              }
+            ]
+          },
+          "3": {
+            "roomName": "B4 301",
+            "invigilators": [
+              {
+                "name": "Viswanath Kasturi",
+                "type": "faculty"
+              },
+              {
+                "name": "Rajesh P",
+                "type": "staff"
+              }
+            ]
+          },
+          "4": {
+            "roomName": "B4 304",
+            "invigilators": [
+              {
+                "name": "Krishnan Marimuthu",
+                "type": "faculty"
+              },
+              {
+                "name": "Krishna Sireesha Salaka",
+                "type": "staff"
+              }
+            ]
+          },
+          "5": {
+            "roomName": "B6 309",
+            "invigilators": [
+              {
+                "name": "Bapi Raju Surampudi",
+                "type": "faculty"
+              },
+              {
+                "name": "Narasimhulu Kuramgalla",
+                "type": "staff"
+              }
+            ]
+          },
+          "6": {
+            "roomName": "CR 1",
+            "invigilators": [
+              {
+                "name": "Kamalakar Karlapalem",
+                "type": "faculty"
+              },
+              {
+                "name": "Satish Kumar K",
+                "type": "staff"
+              }
+            ]
+          },
+          "7": {
+            "roomName": "H 101",
+            "invigilators": [
+              {
+                "name": "Vineet Gandhi",
+                "type": "faculty"
+              },
+              {
+                "name": "Lakshmi Narasimha Rao Yerra",
+                "type": "staff"
+              }
+            ]
+          },
+          "8": {
+            "roomName": "H 102",
+            "invigilators": [
+              {
+                "name": "Harikumar Kandath",
+                "type": "faculty"
+              },
+              {
+                "name": "Mounika Akula",
+                "type": "staff"
+              }
+            ]
+          },
+          "9": {
+            "roomName": "H 103",
+            "invigilators": [
+              {
+                "name": "Veera Prakash Yalla",
+                "type": "faculty"
+              },
+              {
+                "name": "Meenakshi V",
+                "type": "staff"
+              }
+            ]
+          },
+          "10": {
+            "roomName": "H 104",
+            "invigilators": [
+              {
+                "name": "Kavita Vemuri",
+                "type": "faculty"
+              },
+              {
+                "name": "Bhanu Pratap Sharma",
+                "type": "staff"
+              }
+            ]
+          },
+          "11": {
+            "roomName": "H 105",
+            "invigilators": [
+              {
+                "name": "Shubham Singhal",
+                "type": "faculty"
+              },
+              {
+                "name": "Nadeem Hussain Mohd",
+                "type": "staff"
+              }
+            ]
+          },
+          "12": {
+            "roomName": "H 201",
+            "invigilators": [
+              {
+                "name": "Jofin George",
+                "type": "faculty"
+              },
+              {
+                "name": "Asima Sherali",
+                "type": "staff"
+              }
+            ]
+          },
+          "13": {
+            "roomName": "H 202",
+            "invigilators": [
+              {
+                "name": "Abhishek Srivastava",
+                "type": "faculty"
+              },
+              {
+                "name": "Raghu Kamani",
+                "type": "staff"
+              }
+            ]
+          }
+        },
+        "slot2": {
+          "1": {
+            "roomName": "319",
+            "invigilators": [
+              {
+                "name": "Kuldeep Ramchandra Kurte",
+                "type": "faculty"
+              },
+              {
+                "name": "Sarita Chebbi",
+                "type": "staff"
+              }
+            ]
+          },
+          "2": {
+            "roomName": "A3 301",
+            "invigilators": [
+              {
+                "name": "Saurabh Todariya",
+                "type": "faculty"
+              },
+              {
+                "name": "Jayaprakash P",
+                "type": "staff"
+              }
+            ]
+          },
+          "3": {
+            "roomName": "B4 301",
+            "invigilators": [
+              {
+                "name": "Makarand Tapaswi",
+                "type": "faculty"
+              },
+              {
+                "name": "Mathimalar S",
+                "type": "staff"
+              }
+            ]
+          },
+          "4": {
+            "roomName": "B4 304",
+            "invigilators": [
+              {
+                "name": "Jofin George",
+                "type": "faculty"
+              },
+              {
+                "name": "Sailaja N",
+                "type": "staff"
+              }
+            ]
+          },
+          "5": {
+            "roomName": "B6 309",
+            "invigilators": [
+              {
+                "name": "Charu Sharma",
+                "type": "faculty"
+              },
+              {
+                "name": "Srinivasulu V A",
+                "type": "staff"
+              }
+            ]
+          },
+          "6": {
+            "roomName": "CR 1",
+            "invigilators": [
+              {
+                "name": "Nagamanikandan Govindan",
+                "type": "faculty"
+              },
+              {
+                "name": "Krishna Babu U",
+                "type": "staff"
+              }
+            ]
+          },
+          "7": {
+            "roomName": "H 101",
+            "invigilators": [
+              {
+                "name": "Lalitha Vadlamani",
+                "type": "faculty"
+              },
+              {
+                "name": "Sai Pooja K",
+                "type": "staff"
+              }
+            ]
+          },
+          "8": {
+            "roomName": "H 102",
+            "invigilators": [
+              {
+                "name": "Vinoo Alluri R",
+                "type": "faculty"
+              },
+              {
+                "name": "Kasula Srinivas",
+                "type": "staff"
+              }
+            ]
+          },
+          "9": {
+            "roomName": "H 103",
+            "invigilators": [
+              {
+                "name": "Chittaranjan Hens",
+                "type": "faculty"
+              },
+              {
+                "name": "Hari Prasad V",
+                "type": "staff"
+              }
+            ]
+          },
+          "10": {
+            "roomName": "H 104",
+            "invigilators": [
+              {
+                "name": "Harjinder Singh",
+                "type": "faculty"
+              },
+              {
+                "name": "Prashant Ranjan",
+                "type": "staff"
+              }
+            ]
+          },
+          "11": {
+            "roomName": "H 105",
+            "invigilators": [
+              {
+                "name": "Indranil Chakrabarty",
+                "type": "faculty"
+              },
+              {
+                "name": "Gopala Rao Kagana",
+                "type": "staff"
+              }
+            ]
+          },
+          "12": {
+            "roomName": "H 201",
+            "invigilators": [
+              {
+                "name": "Ankit Gangwal",
+                "type": "faculty"
+              },
+              {
+                "name": "Veda P",
+                "type": "staff"
+              }
+            ]
+          },
+          "13": {
+            "roomName": "H 202",
+            "invigilators": [
+              {
+                "name": "Praveen Paruchuri",
+                "type": "faculty"
+              },
+              {
+                "name": "Ramana V V",
+                "type": "staff"
+              }
+            ]
+          },
+          "14": {
+            "roomName": "H 203",
+            "invigilators": [
+              {
+                "name": "Kannan Srinathan",
+                "type": "faculty"
+              },
+              {
+                "name": "Dharani Reddy K",
+                "type": "staff"
+              }
+            ]
+          },
+          "15": {
+            "roomName": "H 204",
+            "invigilators": [
+              {
+                "name": "Ravi Kiran Sarvadevabhatla",
+                "type": "faculty"
+              },
+              {
+                "name": "Manohar Ch. P",
+                "type": "staff"
+              }
+            ]
+          }
+        }
+      },
+      "day7": {
+        "slot1": {
+          "1": {
+            "roomName": "319",
+            "invigilators": [
+              {
+                "name": "Bapi Raju Surampudi",
+                "type": "faculty"
+              },
+              {
+                "name": "Shaik Silar",
+                "type": "staff"
+              }
+            ]
+          },
+          "2": {
+            "roomName": "A3 301",
+            "invigilators": [
+              {
+                "name": "Nita Parekh",
+                "type": "faculty"
+              },
+              {
+                "name": "Venkata Naga Durga Valli Ch",
+                "type": "staff"
+              }
+            ]
+          },
+          "3": {
+            "roomName": "B4 301",
+            "invigilators": [
+              {
+                "name": "Krishnan Marimuthu",
+                "type": "faculty"
+              },
+              {
+                "name": "Kirankumar Tankashala",
+                "type": "staff"
+              }
+            ]
+          },
+          "4": {
+            "roomName": "B4 304",
+            "invigilators": [
+              {
+                "name": "Narayanan P J",
+                "type": "faculty"
+              },
+              {
+                "name": "Jithender Rao P",
+                "type": "staff"
+              }
+            ]
+          },
+          "5": {
+            "roomName": "B6 309",
+            "invigilators": [
+              {
+                "name": "Tejas Bodas",
+                "type": "faculty"
+              },
+              {
+                "name": "Preetham Raj Ramraj",
+                "type": "staff"
+              }
+            ]
+          },
+          "6": {
+            "roomName": "CR 1",
+            "invigilators": [
+              {
+                "name": "Aftab M. Hussain",
+                "type": "faculty"
+              },
+              {
+                "name": "Mohammed Imtiyaz Shareef",
+                "type": "staff"
+              }
+            ]
+          },
+          "7": {
+            "roomName": "H 101",
+            "invigilators": [
+              {
+                "name": "Saurabh Todariya",
+                "type": "faculty"
+              },
+              {
+                "name": "Revanth Nethala",
+                "type": "staff"
+              }
+            ]
+          },
+          "8": {
+            "roomName": "H 102",
+            "invigilators": [
+              {
+                "name": "Dipti Mishra Sharma",
+                "type": "faculty"
+              },
+              {
+                "name": "Naragudem Mallesham",
+                "type": "staff"
+              }
+            ]
+          },
+          "9": {
+            "roomName": "H 103",
+            "invigilators": [
+              {
+                "name": "Rahul Mishra",
+                "type": "faculty"
+              },
+              {
+                "name": "Srikanth P",
+                "type": "staff"
+              }
+            ]
+          },
+          "10": {
+            "roomName": "H 104",
+            "invigilators": [
+              {
+                "name": "Siddhartha Das",
+                "type": "faculty"
+              },
+              {
+                "name": "Purnavathi P",
+                "type": "staff"
+              }
+            ]
+          },
+          "11": {
+            "roomName": "H 105",
+            "invigilators": [
+              {
+                "name": "Atul Singh Arora",
+                "type": "faculty"
+              },
+              {
+                "name": "Raja Prasada Rao Poladi",
+                "type": "staff"
+              }
+            ]
+          },
+          "12": {
+            "roomName": "H 201",
+            "invigilators": [
+              {
+                "name": "Samyadeb Bhattacharya",
+                "type": "faculty"
+              },
+              {
+                "name": "Samson Xavier",
+                "type": "staff"
+              }
+            ]
+          }
+        },
+        "slot2": {
+          "1": {
+            "roomName": "319",
+            "invigilators": [
+              {
+                "name": "Uttam Singh",
+                "type": "faculty"
+              },
+              {
+                "name": "Vinay Chari",
+                "type": "staff"
+              }
+            ]
+          },
+          "2": {
+            "roomName": "A3 301",
+            "invigilators": [
+              {
+                "name": "Chiranjeevi Yarra",
+                "type": "faculty"
+              },
+              {
+                "name": "Md. Abdul Kaleem",
+                "type": "staff"
+              }
+            ]
+          },
+          "3": {
+            "roomName": "B4 301",
+            "invigilators": [
+              {
+                "name": "Krishna Reddy Polepalli",
+                "type": "faculty"
+              },
+              {
+                "name": "Pranjali Kanade",
+                "type": "staff"
+              }
+            ]
+          },
+          "4": {
+            "roomName": "B4 304",
+            "invigilators": [
+              {
+                "name": "Krishnan Sundara Rajan",
+                "type": "faculty"
+              },
+              {
+                "name": "Meenakshi V",
+                "type": "staff"
+              }
+            ]
+          },
+          "5": {
+            "roomName": "B6 309",
+            "invigilators": [
+              {
+                "name": "Deva Priyakumar U",
+                "type": "faculty"
+              },
+              {
+                "name": "Krishna Babu U",
+                "type": "staff"
+              }
+            ]
+          },
+          "6": {
+            "roomName": "CR 1",
+            "invigilators": [
+              {
+                "name": "Atul Singh Arora",
+                "type": "faculty"
+              },
+              {
+                "name": "Manohar Ch. P",
+                "type": "staff"
+              }
+            ]
+          },
+          "7": {
+            "roomName": "H 101",
+            "invigilators": [
+              {
+                "name": "Jawahar C V",
+                "type": "faculty"
+              },
+              {
+                "name": "Devi Prasad T V",
+                "type": "staff"
+              }
+            ]
+          },
+          "8": {
+            "roomName": "H 102",
+            "invigilators": [
+              {
+                "name": "Samyadeb Bhattacharya",
+                "type": "faculty"
+              },
+              {
+                "name": "Sarita Chebbi",
+                "type": "staff"
+              }
+            ]
+          },
+          "9": {
+            "roomName": "H 103",
+            "invigilators": [
+              {
+                "name": "Kishore Kothapalli",
+                "type": "faculty"
+              },
+              {
+                "name": "Bal Santosh B",
+                "type": "staff"
+              }
+            ]
+          },
+          "10": {
+            "roomName": "H 104",
+            "invigilators": [
+              {
+                "name": "Sujit Prakash Gujar",
+                "type": "faculty"
+              },
+              {
+                "name": "Kavitha D",
+                "type": "staff"
+              }
+            ]
+          },
+          "11": {
+            "roomName": "H 105",
+            "invigilators": [
+              {
+                "name": "Tapan Kumar Sau",
+                "type": "faculty"
+              },
+              {
+                "name": "GBV Raju",
+                "type": "staff"
+              }
+            ]
+          },
+          "12": {
+            "roomName": "H 201",
+            "invigilators": [
+              {
+                "name": "Girish Varma",
+                "type": "faculty"
+              },
+              {
+                "name": "Samson Xavier",
+                "type": "staff"
+              }
+            ]
+          },
+          "13": {
+            "roomName": "H 202",
+            "invigilators": [
+              {
+                "name": "Veera Prakash Yalla",
+                "type": "faculty"
+              },
+              {
+                "name": "Papinaidu Koduru",
+                "type": "staff"
+              }
+            ]
+          },
+          "14": {
+            "roomName": "H 203",
+            "invigilators": [
+              {
+                "name": "Nita Parekh",
+                "type": "faculty"
+              },
+              {
+                "name": "Venugopal M",
+                "type": "staff"
+              }
+            ]
+          },
+          "15": {
+            "roomName": "H 204",
+            "invigilators": [
+              {
+                "name": "Ravi Kiran Sarvadevabhatla",
+                "type": "faculty"
+              },
+              {
+                "name": "Prakash Nayak",
+                "type": "staff"
+              }
+            ]
+          },
+          "16": {
+            "roomName": "H 205",
+            "invigilators": [
+              {
+                "name": "Rahul Mishra",
+                "type": "faculty"
+              },
+              {
+                "name": "Narasimhulu Kuramgalla",
+                "type": "staff"
+              }
+            ]
+          },
+          "17": {
+            "roomName": "H 301",
+            "invigilators": [
+              {
+                "name": "Rajorshi Ray",
+                "type": "faculty"
+              },
+              {
+                "name": "Srinivas K",
+                "type": "staff"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "dutyCount": {
+      "Ramesh Loganathan": 2,
+      "Madhu Babu D": 2,
+      "Isha Dubey": 2,
+      "Vijaya Sekhar K S": 2,
+      "Priyanka Srivastava": 2,
+      "Bhavani Pullabhatla": 2,
+      "Aakansha Natani": 2,
+      "Naragudem Mallesham": 2,
+      "Santosh Nannuru": 2,
+      "Mohana Vamsi U": 2,
+      "Nimmi Rangaswamy": 2,
+      "Vamsi Krishna Nelluri": 1,
+      "Rakesh Kiran Chand Thumaty": 2,
+      "Vatala Venkata Nagaraju": 2,
+      "Vikram Pudi": 2,
+      "Venkata Seshu Kumar": 2,
+      "Anshu Sarje": 2,
+      "Shankari Sireesha": 2,
+      "Anirban Dasgupta": 2,
+      "Md. Abdul Kaleem": 2,
+      "Venkata Suresh Reddy Purini": 2,
+      "Lalitha Gutha": 2,
+      "Rajakrishnan P Rajkumar": 1,
+      "Venugopal Reddy K": 1,
+      "Deepak Gangadharan": 2,
+      "Venugopal M": 2,
+      "Abhishek Kr Singh": 2,
+      "Rambabu P V S": 2,
+      "Indranil Chakrabarty": 2,
+      "Santosh Kumar Ladi": 2,
+      "Rahul Shrestha": 2,
+      "GBV Raju": 2,
+      "Aditi Mukherjee": 2,
+      "Golla Srinivas": 2,
+      "Prashant Ranjan": 2,
+      "Sachin Chaudhari": 2,
+      "Karthik Raj Pasumala": 2,
+      "Makarand Tapaswi": 2,
+      "Ankit Singh": 2,
+      "Raman Saxena": 1,
+      "Kumaraswamy D": 2,
+      "Diganta Das": 2,
+      "Ashok Pentam": 2,
+      "Ankit Gangwal": 2,
+      "Lakshmana Kumar S": 2,
+      "Aniket Alam": 2,
+      "Akhil A": 2,
+      "Ashwin Jayanti": 2,
+      "Pranjali Kanade": 2,
+      "Aftab M. Hussain": 2,
+      "Venugopal Kodakalla": 2,
+      "Prabhakar Bhimalapuram": 2,
+      "Parvathi Prasad": 2,
+      "Vasudeva Varma Kalidindi": 1,
+      "Kanika Gupta": 2,
+      "Suryajith Chillara": 1,
+      "Kamalakar Karlapalem": 2,
+      "Shailaja Banalu": 2,
+      "Radhika Krishnan": 2,
+      "Kanakaiah Manthri": 2,
+      "Kavitha D": 2,
+      "Bal Santosh B": 2,
+      "Prabhakar Nampalli": 2,
+      "Ponnurangam Kumaraguru": 2,
+      "Anil Kumar Vuppala": 2,
+      "Raja Prasada Rao Poladi": 2,
+      "Jithender Rao P": 2,
+      "Ashish Rath": 2,
+      "Girish Byrappa": 2,
+      "Krishna Sireesha Salaka": 2,
+      "Kshitij Gajjar": 1,
+      "Bhaskar Prasad M": 2,
+      "Vinod Palakkad Krishnanunni": 2,
+      "Radhika Mamidi": 2,
+      "Prabhakar Mootakoori": 1,
+      "P Pravin Kumar Venkat Rao": 2,
+      "Poojitha Akula": 2,
+      "Narayanan P J": 2,
+      "Srikanth K": 2,
+      "Lini Teresa Thomas": 2,
+      "Preetham Raj Ramraj": 2,
+      "Harjinder Singh": 2,
+      "Thakur Balaji Singh": 1,
+      "Kannan Srinathan": 2,
+      "Satish Kumar G": 1,
+      "Parameswari Krishnamurthy": 2,
+      "Jayaprakash P": 2,
+      "Shubham Singhal": 2,
+      "Sriranjani K": 2,
+      "K Madhava Krishna": 2,
+      "Papinaidu Koduru": 2,
+      "Viswanath Kasturi": 2,
+      "Satish Kumar K": 2,
+      "Girish Varma": 2,
+      "Muralidhar G": 2,
+      "Sushmita Banerji": 2,
+      "Kasula Srinivas": 2,
+      "Krishna Reddy Polepalli": 2,
+      "Pawan Kumar": 2,
+      "Prasad Krishnan": 2,
+      "Abdul Rahman Md.": 2,
+      "Guruprasad J": 2,
+      "Avinash Sharma": 1,
+      "Vinoo Alluri R": 2,
+      "Manoj Kumar K": 1,
+      "Shatrunjay Rawat": 2,
+      "Ashok Kumar Das": 2,
+      "Karthik Vaidhyanathan": 2,
+      "Surya Prakash Vattem": 1,
+      "Kuldeep Ramchandra Kurte": 2,
+      "Raghu Babu Reddy Y": 2,
+      "Anoop Namboodiri": 2,
+      "Gopala Rao Kagana": 2,
+      "Antony Thomas": 2,
+      "Asha Namboodiri": 2,
+      "Nagamanikandan Govindan": 2,
+      "Shaik Silar": 2,
+      "Praveen Paruchuri": 2,
+      "Srinivasarao G": 2,
+      "Nazia Akhtar": 2,
+      "Asima Sherali": 2,
+      "Revanth Nethala": 2,
+      "Praful Mankar": 1,
+      "Swathi Bellam": 1,
+      "Venkatesh Choppella": 1,
+      "Sastry K C M": 1,
+      "Rajorshi Ray": 2,
+      "Mathimalar S": 2,
+      "Kirankumar Tankashala": 2,
+      "Kishore Kothapalli": 2,
+      "Murthy P L": 2,
+      "Sudha Chandrasekhar": 1,
+      "Harikumar Kandath": 2,
+      "Srikanth Gundu": 1,
+      "Ramana V V": 2,
+      "Nadeem Hussain Mohd": 2,
+      "Vishnu Sreekumar": 1,
+      "Devi Prasad T V": 2,
+      "Vineet Gandhi": 2,
+      "Srinivasulu V A": 2,
+      "Shantanav Chakraborty": 2,
+      "Shanmukh Rao P": 1,
+      "Bhanu Pratap Sharma": 2,
+      "Vishal Garg": 1,
+      "Grace Nalini B": 2,
+      "Manish Shrivastava": 1,
+      "Priyesh Shukla": 2,
+      "Rajesh P": 2,
+      "Gowtham Raghunath Kurri": 2,
+      "Saikumar Ravu": 1,
+      "Arti Yardi": 2,
+      "V Murali Mohan": 1,
+      "Kavita Vemuri": 2,
+      "Sridhar Kora": 1,
+      "Srinivas K": 2,
+      "Tejas Bodas": 2,
+      "Hari Prasad V": 2,
+      "Abhishek Srivastava": 2,
+      "Sathish Kumar Palasa": 1,
+      "Naresh Manwani": 1,
+      "Nalini Kumar P": 1,
+      "Lakshmi Narasimha Rao Yerra": 2,
+      "Darga Mahesh": 1,
+      "Abhishek Deshpande": 1,
+      "Venkata Naga Durga Valli Ch": 2,
+      "Sailaja N": 2,
+      "Abhijit Mitra": 1,
+      "Jofin George": 2,
+      "Prathima M V L": 1,
+      "Bapi Raju Surampudi": 2,
+      "Narasimhulu Kuramgalla": 2,
+      "Raghu Kamani": 1,
+      "Dipti Mishra Sharma": 2,
+      "Mounika Akula": 1,
+      "Krishnan Marimuthu": 2,
+      "Veera Prakash Yalla": 2,
+      "Meenakshi V": 2,
+      "Dharani Reddy K": 1,
+      "Charu Sharma": 1,
+      "Ravi Kiran Sarvadevabhatla": 2,
+      "Manohar Ch. P": 2,
+      "Chittaranjan Hens": 1,
+      "Saurabh Todariya": 2,
+      "Sarita Chebbi": 2,
+      "Lalitha Vadlamani": 1,
+      "Sai Pooja K": 1,
+      "Veda P": 1,
+      "Krishna Babu U": 2,
+      "Nita Parekh": 2,
+      "Rahul Mishra": 2,
+      "Srikanth P": 1,
+      "Siddhartha Das": 1,
+      "Purnavathi P": 1,
+      "Samyadeb Bhattacharya": 2,
+      "Samson Xavier": 2,
+      "Mohammed Imtiyaz Shareef": 1,
+      "Atul Singh Arora": 2,
+      "Tapan Kumar Sau": 1,
+      "Krishnan Sundara Rajan": 1,
+      "Prakash Nayak": 1,
+      "Deva Priyakumar U": 1,
+      "Chiranjeevi Yarra": 1,
+      "Jawahar C V": 1,
+      "Uttam Singh": 1,
+      "Vinay Chari": 1,
+      "Sujit Prakash Gujar": 1
+    },
+    "warnings": [],
+    "dutySummary": {
+      "faculty": {
+        "Ramesh Loganathan": 2,
+        "Isha Dubey": 2,
+        "Priyanka Srivastava": 2,
+        "Aakansha Natani": 2,
+        "Santosh Nannuru": 2,
+        "Nimmi Rangaswamy": 2,
+        "Rakesh Kiran Chand Thumaty": 2,
+        "Vikram Pudi": 2,
+        "Anshu Sarje": 2,
+        "Anirban Dasgupta": 2,
+        "Venkata Suresh Reddy Purini": 2,
+        "Rajakrishnan P Rajkumar": 1,
+        "Deepak Gangadharan": 2,
+        "Abhishek Kr Singh": 2,
+        "Indranil Chakrabarty": 2,
+        "Rahul Shrestha": 2,
+        "Aditi Mukherjee": 2,
+        "Sachin Chaudhari": 2,
+        "Makarand Tapaswi": 2,
+        "Raman Saxena": 1,
+        "Diganta Das": 2,
+        "Ankit Gangwal": 2,
+        "Aniket Alam": 2,
+        "Ashwin Jayanti": 2,
+        "Aftab M. Hussain": 2,
+        "Prabhakar Bhimalapuram": 2,
+        "Vasudeva Varma Kalidindi": 1,
+        "Suryajith Chillara": 1,
+        "Kamalakar Karlapalem": 2,
+        "Radhika Krishnan": 2,
+        "Ponnurangam Kumaraguru": 2,
+        "Anil Kumar Vuppala": 2,
+        "Kshitij Gajjar": 1,
+        "Vinod Palakkad Krishnanunni": 2,
+        "Radhika Mamidi": 2,
+        "P Pravin Kumar Venkat Rao": 2,
+        "Narayanan P J": 2,
+        "Lini Teresa Thomas": 2,
+        "Harjinder Singh": 2,
+        "Kannan Srinathan": 2,
+        "Parameswari Krishnamurthy": 2,
+        "Shubham Singhal": 2,
+        "K Madhava Krishna": 2,
+        "Viswanath Kasturi": 2,
+        "Girish Varma": 2,
+        "Sushmita Banerji": 2,
+        "Krishna Reddy Polepalli": 2,
+        "Pawan Kumar": 2,
+        "Prasad Krishnan": 2,
+        "Avinash Sharma": 1,
+        "Vinoo Alluri R": 2,
+        "Shatrunjay Rawat": 2,
+        "Ashok Kumar Das": 2,
+        "Karthik Vaidhyanathan": 2,
+        "Kuldeep Ramchandra Kurte": 2,
+        "Raghu Babu Reddy Y": 2,
+        "Anoop Namboodiri": 2,
+        "Antony Thomas": 2,
+        "Nagamanikandan Govindan": 2,
+        "Praveen Paruchuri": 2,
+        "Nazia Akhtar": 2,
+        "Praful Mankar": 1,
+        "Venkatesh Choppella": 1,
+        "Rajorshi Ray": 2,
+        "Kishore Kothapalli": 2,
+        "Harikumar Kandath": 2,
+        "Vishnu Sreekumar": 1,
+        "Vineet Gandhi": 2,
+        "Shantanav Chakraborty": 2,
+        "Vishal Garg": 1,
+        "Manish Shrivastava": 1,
+        "Priyesh Shukla": 2,
+        "Gowtham Raghunath Kurri": 2,
+        "Arti Yardi": 2,
+        "Kavita Vemuri": 2,
+        "Tejas Bodas": 2,
+        "Abhishek Srivastava": 2,
+        "Naresh Manwani": 1,
+        "Abhishek Deshpande": 1,
+        "Abhijit Mitra": 1,
+        "Jofin George": 2,
+        "Bapi Raju Surampudi": 2,
+        "Dipti Mishra Sharma": 2,
+        "Krishnan Marimuthu": 2,
+        "Veera Prakash Yalla": 2,
+        "Charu Sharma": 1,
+        "Ravi Kiran Sarvadevabhatla": 2,
+        "Chittaranjan Hens": 1,
+        "Saurabh Todariya": 2,
+        "Lalitha Vadlamani": 1,
+        "Nita Parekh": 2,
+        "Rahul Mishra": 2,
+        "Siddhartha Das": 1,
+        "Samyadeb Bhattacharya": 2,
+        "Atul Singh Arora": 2,
+        "Tapan Kumar Sau": 1,
+        "Krishnan Sundara Rajan": 1,
+        "Deva Priyakumar U": 1,
+        "Chiranjeevi Yarra": 1,
+        "Jawahar C V": 1,
+        "Uttam Singh": 1,
+        "Sujit Prakash Gujar": 1
+      },
+      "staff": {
+        "Madhu Babu D": 2,
+        "Vijaya Sekhar K S": 2,
+        "Bhavani Pullabhatla": 2,
+        "Naragudem Mallesham": 2,
+        "Mohana Vamsi U": 2,
+        "Vamsi Krishna Nelluri": 1,
+        "Vatala Venkata Nagaraju": 2,
+        "Venkata Seshu Kumar": 2,
+        "Shankari Sireesha": 2,
+        "Md. Abdul Kaleem": 2,
+        "Lalitha Gutha": 2,
+        "Venugopal Reddy K": 1,
+        "Venugopal M": 2,
+        "Rambabu P V S": 2,
+        "Santosh Kumar Ladi": 2,
+        "GBV Raju": 2,
+        "Golla Srinivas": 2,
+        "Prashant Ranjan": 2,
+        "Karthik Raj Pasumala": 2,
+        "Ankit Singh": 2,
+        "Kumaraswamy D": 2,
+        "Ashok Pentam": 2,
+        "Lakshmana Kumar S": 2,
+        "Akhil A": 2,
+        "Pranjali Kanade": 2,
+        "Venugopal Kodakalla": 2,
+        "Parvathi Prasad": 2,
+        "Kanika Gupta": 2,
+        "Shailaja Banalu": 2,
+        "Kanakaiah Manthri": 2,
+        "Kavitha D": 2,
+        "Bal Santosh B": 2,
+        "Prabhakar Nampalli": 2,
+        "Raja Prasada Rao Poladi": 2,
+        "Jithender Rao P": 2,
+        "Ashish Rath": 2,
+        "Girish Byrappa": 2,
+        "Krishna Sireesha Salaka": 2,
+        "Bhaskar Prasad M": 2,
+        "Prabhakar Mootakoori": 1,
+        "Poojitha Akula": 2,
+        "Srikanth K": 2,
+        "Preetham Raj Ramraj": 2,
+        "Thakur Balaji Singh": 1,
+        "Satish Kumar G": 1,
+        "Jayaprakash P": 2,
+        "Sriranjani K": 2,
+        "Papinaidu Koduru": 2,
+        "Satish Kumar K": 2,
+        "Muralidhar G": 2,
+        "Kasula Srinivas": 2,
+        "Abdul Rahman Md.": 2,
+        "Guruprasad J": 2,
+        "Manoj Kumar K": 1,
+        "Surya Prakash Vattem": 1,
+        "Gopala Rao Kagana": 2,
+        "Asha Namboodiri": 2,
+        "Shaik Silar": 2,
+        "Srinivasarao G": 2,
+        "Asima Sherali": 2,
+        "Revanth Nethala": 2,
+        "Swathi Bellam": 1,
+        "Sastry K C M": 1,
+        "Mathimalar S": 2,
+        "Kirankumar Tankashala": 2,
+        "Murthy P L": 2,
+        "Sudha Chandrasekhar": 1,
+        "Srikanth Gundu": 1,
+        "Ramana V V": 2,
+        "Nadeem Hussain Mohd": 2,
+        "Devi Prasad T V": 2,
+        "Srinivasulu V A": 2,
+        "Shanmukh Rao P": 1,
+        "Bhanu Pratap Sharma": 2,
+        "Grace Nalini B": 2,
+        "Rajesh P": 2,
+        "Saikumar Ravu": 1,
+        "V Murali Mohan": 1,
+        "Sridhar Kora": 1,
+        "Srinivas K": 2,
+        "Hari Prasad V": 2,
+        "Sathish Kumar Palasa": 1,
+        "Nalini Kumar P": 1,
+        "Lakshmi Narasimha Rao Yerra": 2,
+        "Darga Mahesh": 1,
+        "Venkata Naga Durga Valli Ch": 2,
+        "Sailaja N": 2,
+        "Prathima M V L": 1,
+        "Narasimhulu Kuramgalla": 2,
+        "Raghu Kamani": 1,
+        "Mounika Akula": 1,
+        "Meenakshi V": 2,
+        "Dharani Reddy K": 1,
+        "Manohar Ch. P": 2,
+        "Sarita Chebbi": 2,
+        "Sai Pooja K": 1,
+        "Veda P": 1,
+        "Krishna Babu U": 2,
+        "Srikanth P": 1,
+        "Purnavathi P": 1,
+        "Samson Xavier": 2,
+        "Mohammed Imtiyaz Shareef": 1,
+        "Prakash Nayak": 1,
+        "Vinay Chari": 1
+      }
+    }
+  }
+}

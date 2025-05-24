@@ -1,0 +1,461 @@
+{
+  "Faculty": {
+    "52": {
+      "name": "Aakansha Natani",
+      "email": "ahanahyd5013@gmail.com"
+    },
+    "53": {
+      "name": "Abhijit Mitra",
+      "email": "keerthana.korlapati@students.iiit.ac.in"
+    },
+    "54": { "name": "Abhishek Deshpande", "email": "ahanahyd5013@gmail.com" },
+    "55": { "name": "Abhishek Kr Singh", "email": "keerthana.korlapati@students.iiit.ac.in" },
+    "56": {
+      "name": "Abhishek Srivastava",
+      "email": "ahanahyd5013@gmail.com"
+    },
+    "57": { "name": "Aditi Mukherjee", "email": "keerthana.korlapati@students.iiit.ac.in" },
+    "58": { "name": "Aftab M. Hussain", "email": "ahanahyd5013@gmail.com" },
+    "59": { "name": "Aniket Alam", "email": "keerthana.korlapati@students.iiit.ac.in" },
+    "60": { "name": "Anil Kumar Vuppala", "email": "ahanahyd5013@gmail.com" },
+    "61": { "name": "Anirban Dasgupta", "email": "keerthana.korlapati@students.iiit.ac.in" },
+    "62": { "name": "Ankit Gangwal", "email": "ahanahyd5013@gmail.com" },
+    "63": { "name": "Anoop Namboodiri", "email": "keerthana.korlapati@students.iiit.ac.in" },
+    "64": { "name": "Anshu Sarje", "email": "ahanahyd5013@gmail.com" },
+    "65": { "name": "Antony Thomas", "email": "keerthana.korlapati@students.iiit.ac.in" },
+    "66": { "name": "Arti Yardi", "email": "ahanahyd5013@gmail.com" },
+    "67": { "name": "Ashok Kumar Das", "email": "keerthana.korlapati@students.iiit.ac.in" },
+    "68": { "name": "Ashwin Jayanti", "email": "ahanahyd5013@gmail.com" },
+    "69": { "name": "Atul Singh Arora", "email": "keerthana.korlapati@students.iiit.ac.in" },
+    "70": { "name": "Avinash Sharma", "email": "ahanahyd5013@gmail.com" },
+    "71": {
+      "name": "Bapi Raju Surampudi",
+      "email": "keerthana.korlapati@students.iiit.ac.in"
+    },
+    "72": { "name": "Bhaktee Dongaonkar", "email": "ahanahyd5013@gmail.com" },
+    "73": { "name": "Charu Sharma", "email": "keerthana.korlapati@students.iiit.ac.in" },
+    "74": { "name": "Chiranjeevi Yarra", "email": "ahanahyd5013@gmail.com" },
+    "75": { "name": "Chittaranjan Hens", "email": "keerthana.korlapati@students.iiit.ac.in" },
+    "76": { "name": "Deepak Gangadharan", "email": "ahanahyd5013@gmail.com" },
+    "77": { "name": "Deva Priyakumar U", "email": "keerthana.korlapati@students.iiit.ac.in" },
+    "78": { "name": "Diganta Das", "email": "ahanahyd5013@gmail.com" },
+    "79": {
+      "name": "Dipti Mishra Sharma",
+      "email": "keerthana.korlapati@students.iiit.ac.in"
+    },
+    "80": { "name": "Girish Varma", "email": "ahanahyd5013@gmail.com" },
+    "81": {
+      "name": "Gowtham Raghunath Kurri",
+      "email": "keerthana.korlapati@students.iiit.ac.in"
+    },
+    "82": { "name": "Harikumar Kandath", "email": "ahanahyd5013@gmail.com" },
+    "83": { "name": "Harjinder Singh", "email": "keerthana.korlapati@students.iiit.ac.in" },
+    "84": {
+      "name": "Indranil Chakrabarty",
+      "email": "ahanahyd5013@gmail.com"
+    },
+    "85": { "name": "Isha Dubey", "email": "keerthana.korlapati@students.iiit.ac.in" },
+    "86": { "name": "Jawahar C V", "email": "ahanahyd5013@gmail.com" },
+    "87": { "name": "Jayanthi Sivaswamy", "email": "keerthana.korlapati@students.iiit.ac.in" },
+    "88": { "name": "Jofin George", "email": "ahanahyd5013@gmail.com" },
+    "89": { "name": "K Madhava Krishna", "email": "keerthana.korlapati@students.iiit.ac.in" },
+    "90": {
+      "name": "Kamalakar Karlapalem",
+      "email": "ahanahyd5013@gmail.com"
+    },
+    "91": { "name": "Kannan Srinathan", "email": "keerthana.korlapati@students.iiit.ac.in" },
+    "92": {
+      "name": "Karthik Vaidhyanathan",
+      "email": "ahanahyd5013@gmail.com"
+    },
+    "93": { "name": "Kavita Vemuri", "email": "keerthana.korlapati@students.iiit.ac.in" },
+    "94": { "name": "Kishore Kothapalli", "email": "ahanahyd5013@gmail.com" },
+    "95": {
+      "name": "Krishna Reddy Polepalli",
+      "email": "keerthana.korlapati@students.iiit.ac.in"
+    },
+    "96": { "name": "Krishnan Marimuthu", "email": "ahanahyd5013@gmail.com" },
+    "97": {
+      "name": "Krishnan Sundara Rajan",
+      "email": "keerthana.korlapati@students.iiit.ac.in"
+    },
+    "98": { "name": "Kshitij Gajjar", "email": "ahanahyd5013@gmail.com" },
+    "99": {
+      "name": "Kuldeep Ramchandra Kurte",
+      "email": "keerthana.korlapati@students.iiit.ac.in"
+    },
+    "100": {
+      "name": "Lalitha Vadlamani",
+      "email": "ahanahyd5013@gmail.com"
+    },
+    "101": {
+      "name": "Lini Teresa Thomas",
+      "email": "keerthana.korlapati@students.iiit.ac.in"
+    },
+    "102": { "name": "Makarand Tapaswi", "email": "ahanahyd5013@gmail.com" },
+    "103": {
+      "name": "Manish Shrivastava",
+      "email": "keerthana.korlapati@students.iiit.ac.in"
+    },
+    "104": {
+      "name": "Nagamanikandan Govindan",
+      "email": "ahanahyd5013@gmail.com"
+    },
+    "105": { "name": "Narayanan P J", "email": "keerthana.korlapati@students.iiit.ac.in" },
+    "106": { "name": "Naresh Manwani", "email": "ahanahyd5013@gmail.com" },
+    "107": { "name": "Nazia Akhtar", "email": "keerthana.korlapati@students.iiit.ac.in" },
+    "108": { "name": "Nimmi Rangaswamy", "email": "ahanahyd5013@gmail.com" },
+    "109": { "name": "Nita Parekh", "email": "keerthana.korlapati@students.iiit.ac.in" },
+    "110": {
+      "name": "P Pravin Kumar Venkat Rao",
+      "email": "ahanahyd5013@gmail.com"
+    },
+    "111": {
+      "name": "Parameswari Krishnamurthy",
+      "email": "keerthana.korlapati@students.iiit.ac.in"
+    },
+    "112": { "name": "Pawan Kumar", "email": "ahanahyd5013@gmail.com" },
+    "113": {
+      "name": "Ponnurangam Kumaraguru",
+      "email": "keerthana.korlapati@students.iiit.ac.in"
+    },
+    "114": {
+      "name": "Prabhakar Bhimalapuram",
+      "email": "ahanahyd5013@gmail.com"
+    },
+    "115": {
+      "name": "Pradeep Kumar Ramancharla",
+      "email": "keerthana.korlapati@students.iiit.ac.in"
+    },
+    "116": { "name": "Praful Mankar", "email": "ahanahyd5013@gmail.com" },
+    "117": { "name": "Prasad Krishnan", "email": "keerthana.korlapati@students.iiit.ac.in" },
+    "118": {
+      "name": "Praveen Paruchuri",
+      "email": "ahanahyd5013@gmail.com"
+    },
+    "119": {
+      "name": "Priyanka Srivastava",
+      "email": "keerthana.korlapati@students.iiit.ac.in"
+    },
+    "120": { "name": "Priyesh Shukla", "email": "ahanahyd5013@gmail.com" },
+    "121": { "name": "Radhika Krishnan", "email": "keerthana.korlapati@students.iiit.ac.in" },
+    "122": { "name": "Radhika Mamidi", "email": "ahanahyd5013@gmail.com" },
+    "123": { "name": "Raghavendra  GS", "email": "keerthana.korlapati@students.iiit.ac.in" },
+    "124": {
+      "name": "Raghu Babu Reddy Y",
+      "email": "ahanahyd5013@gmail.com"
+    },
+    "125": { "name": "Rahul Mishra", "email": "keerthana.korlapati@students.iiit.ac.in" },
+    "126": { "name": "Rahul Shrestha", "email": "ahanahyd5013@gmail.com" },
+    "127": {
+      "name": "Rajakrishnan P Rajkumar",
+      "email": "keerthana.korlapati@students.iiit.ac.in"
+    },
+    "128": { "name": "Rajorshi Ray", "email": "ahanahyd5013@gmail.com" },
+    "129": {
+      "name": "Rakesh Kiran Chand Thumaty",
+      "email": "keerthana.korlapati@students.iiit.ac.in"
+    },
+    "130": {
+      "name": "Rama Chandra Prasad Pillutla",
+      "email": "ahanahyd5013@gmail.com"
+    },
+    "131": { "name": "Raman Saxena", "email": "keerthana.korlapati@students.iiit.ac.in" },
+    "132": {
+      "name": "Ramesh Loganathan",
+      "email": "ahanahyd5013@gmail.com"
+    },
+    "133": {
+      "name": "Ravi Kiran Sarvadevabhatla",
+      "email": "keerthana.korlapati@students.iiit.ac.in"
+    },
+    "134": { "name": "Rehna Shaik", "email": "ahanahyd5013@gmail.com" },
+    "135": { "name": "Sachin Chaudhari", "email": "keerthana.korlapati@students.iiit.ac.in" },
+    "136": {
+      "name": "Samyadeb Bhattacharya",
+      "email": "ahanahyd5013@gmail.com"
+    },
+    "137": { "name": "Santosh Nannuru", "email": "keerthana.korlapati@students.iiit.ac.in" },
+    "138": { "name": "Saurabh Todariya", "email": "ahanahyd5013@gmail.com" },
+    "139": {
+      "name": "Semparithi Aravindan",
+      "email": "keerthana.korlapati@students.iiit.ac.in"
+    },
+    "140": {
+      "name": "Shantanav Chakraborty",
+      "email": "ahanahyd5013@gmail.com"
+    },
+    "141": { "name": "Shatrunjay Rawat", "email": "keerthana.korlapati@students.iiit.ac.in" },
+    "142": { "name": "Shubham Singhal", "email": "ahanahyd5013@gmail.com" },
+    "143": { "name": "Siddhartha Das", "email": "keerthana.korlapati@students.iiit.ac.in" },
+    "144": { "name": "Spandan Roy", "email": "ahanahyd5013@gmail.com" },
+    "145": { "name": "Subhadip Mitra", "email": "keerthana.korlapati@students.iiit.ac.in" },
+    "146": {
+      "name": "Sujit Prakash Gujar",
+      "email": "ahanahyd5013@gmail.com"
+    },
+    "147": {
+      "name": "Sunitha Palissery",
+      "email": "keerthana.korlapati@students.iiit.ac.in"
+    },
+    "148": {
+      "name": "Suryajith Chillara",
+      "email": "ahanahyd5013@gmail.com"
+    },
+    "149": { "name": "Sushmita Banerji", "email": "keerthana.korlapati@students.iiit.ac.in" },
+    "150": { "name": "Tapan Kumar Sau", "email": "ahanahyd5013@gmail.com" },
+    "151": { "name": "Tejas Bodas", "email": "keerthana.korlapati@students.iiit.ac.in" },
+    "152": { "name": "Uttam Singh", "email": "ahanahyd5013@gmail.com" },
+    "153": {
+      "name": "Vasudeva Varma Kalidindi",
+      "email": "keerthana.korlapati@students.iiit.ac.in"
+    },
+    "154": {
+      "name": "Veera Prakash Yalla",
+      "email": "ahanahyd5013@gmail.com"
+    },
+    "155": {
+      "name": "Venkata Suresh Reddy Purini",
+      "email": "keerthana.korlapati@students.iiit.ac.in"
+    },
+    "156": {
+      "name": "Venkatesh Choppella",
+      "email": "ahanahyd5013@gmail.com"
+    },
+    "157": { "name": "Vikram Pudi", "email": "keerthana.korlapati@students.iiit.ac.in" },
+    "158": { "name": "Vineet Gandhi", "email": "ahanahyd5013@gmail.com" },
+    "159": {
+      "name": "Vinod Palakkad Krishnanunni",
+      "email": "keerthana.korlapati@students.iiit.ac.in"
+    },
+    "160": { "name": "Vinoo Alluri R", "email": "ahanahyd5013@gmail.com" },
+    "161": { "name": "Vishal Garg", "email": "keerthana.korlapati@students.iiit.ac.in" },
+    "162": { "name": "Vishnu Sreekumar", "email": "ahanahyd5013@gmail.com" },
+    "163": {
+      "name": "Viswanath Kasturi",
+      "email": "keerthana.korlapati@students.iiit.ac.in"
+    },
+    "164": {
+      "name": "Yegnanarayana Bayya",
+      "email": "ahanahyd5013@gmail.com"
+    },
+    "165": { "name": "Zia Abbas", "email": "keerthana.korlapati@students.iiit.ac.in" }
+  },
+  "Staff": {
+    "1": { "name": "Abdul Rahman Md.", "email": "ahanahyd5013@gmail.com" },
+    "2": { "name": "Akhil A", "email": "keerthana.korlapati@students.iiit.ac.in" },
+    "3": { "name": "Ankit Singh", "email": "ahanahyd5013@gmail.com" },
+    "4": { "name": "Asha Namboodiri", "email": "keerthana.korlapati@students.iiit.ac.in" },
+    "5": { "name": "Ashish Rath", "email": "ahanahyd5013@gmail.com" },
+    "6": { "name": "Ashok Pentam", "email": "keerthana.korlapati@students.iiit.ac.in" },
+    "7": { "name": "Asima Sherali", "email": "ahanahyd5013@gmail.com" },
+    "8": { "name": "Bhavani Pullabhatla", "email": "keerthana.korlapati@students.iiit.ac.in" },
+    "9": { "name": "Darga Mahesh", "email": "ahanahyd5013@gmail.com" },
+    "10": { "name": "Dharani Reddy K", "email": "keerthana.korlapati@students.iiit.ac.in" },
+    "11": { "name": "Golla Srinivas", "email": "ahanahyd5013@gmail.com" },
+    "12": { "name": "Hari Prasad V", "email": "keerthana.korlapati@students.iiit.ac.in" },
+    "13": { "name": "Kanakaiah Manthri", "email": "ahanahyd5013@gmail.com" },
+    "14": { "name": "Kasula Srinivas", "email": "keerthana.korlapati@students.iiit.ac.in" },
+    "15": {
+      "name": "Kirankumar Tankashala",
+      "email": "ahanahyd5013@gmail.com"
+    },
+    "16": { "name": "Krishna Babu U", "email": "keerthana.korlapati@students.iiit.ac.in" },
+    "17": { "name": "Lakshmana Kumar S", "email": "ahanahyd5013@gmail.com" },
+    "18": {
+      "name": "Mahesh Kumar Malbhage",
+      "email": "keerthana.korlapati@students.iiit.ac.in"
+    },
+    "19": { "name": "Mathimalar S", "email": "ahanahyd5013@gmail.com" },
+    "20": { "name": "Md. Abdul Kaleem", "email": "keerthana.korlapati@students.iiit.ac.in" },
+    "21": { "name": "Mohammed Hafiz", "email": "ahanahyd5013@gmail.com" },
+    "22": { "name": "Mounika Akula", "email": "keerthana.korlapati@students.iiit.ac.in" },
+    "23": {
+      "name": "Naragudem Mallesham",
+      "email": "ahanahyd5013@gmail.com"
+    },
+    "24": {
+      "name": "Narasimhulu Kuramgalla",
+      "email": "keerthana.korlapati@students.iiit.ac.in"
+    },
+    "25": { "name": "Papinaidu Koduru", "email": "ahanahyd5013@gmail.com" },
+    "26": { "name": "Parvathi Prasad", "email": "keerthana.korlapati@students.iiit.ac.in" },
+    "27": { "name": "Poojitha Akula", "email": "ahanahyd5013@gmail.com" },
+    "28": { "name": "Prakash Nayak", "email": "keerthana.korlapati@students.iiit.ac.in" },
+    "29": { "name": "Pranjali Kanade", "email": "ahanahyd5013@gmail.com" },
+    "30": {
+      "name": "Raja Prasada Rao Poladi",
+      "email": "keerthana.korlapati@students.iiit.ac.in"
+    },
+    "31": { "name": "Rajesh P", "email": "ahanahyd5013@gmail.com" },
+    "32": { "name": "Revanth Nethala", "email": "keerthana.korlapati@students.iiit.ac.in" },
+    "33": { "name": "Sai Pooja K", "email": "ahanahyd5013@gmail.com" },
+    "34": { "name": "Saikumar Ravu", "email": "keerthana.korlapati@students.iiit.ac.in" },
+    "35": { "name": "Samson Xavier", "email": "ahanahyd5013@gmail.com" },
+    "36": { "name": "Sarita Chebbi", "email": "keerthana.korlapati@students.iiit.ac.in" },
+    "37": { "name": "Sastry K C M", "email": "ahanahyd5013@gmail.com" },
+    "38": { "name": "Sastry S L N", "email": "keerthana.korlapati@students.iiit.ac.in" },
+    "39": { "name": "Shailaja Banalu", "email": "ahanahyd5013@gmail.com" },
+    "40": { "name": "Shailaja D", "email": "keerthana.korlapati@students.iiit.ac.in" },
+    "41": { "name": "Shankari Sireesha", "email": "ahanahyd5013@gmail.com" },
+    "42": { "name": "Srilakshmi", "email": "keerthana.korlapati@students.iiit.ac.in" },
+    "43": {
+      "name": "Srivastava Sharma Ch",
+      "email": "ahanahyd5013@gmail.com"
+    },
+    "44": {
+      "name": "Sudha Chandrasekhar",
+      "email": "keerthana.korlapati@students.iiit.ac.in"
+    },
+    "45": { "name": "Sunanda Varma K", "email": "ahanahyd5013@gmail.com" },
+    "46": {
+      "name": "Surya Prakash Vattem",
+      "email": "keerthana.korlapati@students.iiit.ac.in"
+    },
+    "47": { "name": "Swathi Bellam", "email": "ahanahyd5013@gmail.com" },
+    "48": {
+      "name": "Thakur Balaji Singh",
+      "email": "keerthana.korlapati@students.iiit.ac.in"
+    },
+    "49": { "name": "V Murali Mohan", "email": "ahanahyd5013@gmail.com" },
+    "50": {
+      "name": "Venugopal Kodakalla",
+      "email": "keerthana.korlapati@students.iiit.ac.in"
+    },
+    "51": { "name": "Vinay Chari", "email": "ahanahyd5013@gmail.com" },
+    "166": {
+      "name": "Anuradha Devi Yeluri",
+      "email": "keerthana.korlapati@students.iiit.ac.in"
+    },
+    "167": {
+      "name": "Anusha Keerthi Edara",
+      "email": "ahanahyd5013@gmail.com"
+    },
+    "168": { "name": "Bal Santosh B", "email": "keerthana.korlapati@students.iiit.ac.in" },
+    "169": {
+      "name": "Balaji Danava Rao Pechchetti",
+      "email": "ahanahyd5013@gmail.com"
+    },
+    "170": {
+      "name": "Bhanu Pratap Sharma",
+      "email": "keerthana.korlapati@students.iiit.ac.in"
+    },
+    "171": { "name": "Bhaskar Prasad M", "email": "ahanahyd5013@gmail.com" },
+    "172": { "name": "Devi Prasad T V", "email": "keerthana.korlapati@students.iiit.ac.in" },
+    "173": { "name": "GBV Raju", "email": "ahanahyd5013@gmail.com" },
+    "174": { "name": "Girish Byrappa", "email": "keerthana.korlapati@students.iiit.ac.in" },
+    "175": {
+      "name": "Gopala Rao Kagana",
+      "email": "ahanahyd5013@gmail.com"
+    },
+    "176": { "name": "Grace Nalini B", "email": "keerthana.korlapati@students.iiit.ac.in" },
+    "177": { "name": "Guruprasad J", "email": "ahanahyd5013@gmail.com" },
+    "178": { "name": "Jayaprakash P", "email": "keerthana.korlapati@students.iiit.ac.in" },
+    "179": { "name": "Jithender Rao P", "email": "ahanahyd5013@gmail.com" },
+    "180": { "name": "Kanika Gupta", "email": "keerthana.korlapati@students.iiit.ac.in" },
+    "181": {
+      "name": "Karthik Raj Pasumala",
+      "email": "ahanahyd5013@gmail.com"
+    },
+    "182": { "name": "Kavitha D", "email": "keerthana.korlapati@students.iiit.ac.in" },
+    "183": {
+      "name": "Krishna Sireesha Salaka",
+      "email": "ahanahyd5013@gmail.com"
+    },
+    "184": { "name": "Kumaraswamy D", "email": "keerthana.korlapati@students.iiit.ac.in" },
+    "185": {
+      "name": "Lakshmi Narasimha Rao Yerra",
+      "email": "ahanahyd5013@gmail.com"
+    },
+    "186": { "name": "Lalitha Gutha", "email": "keerthana.korlapati@students.iiit.ac.in" },
+    "187": { "name": "Madhu Babu D", "email": "ahanahyd5013@gmail.com" },
+    "188": { "name": "Mahender Kumar B", "email": "keerthana.korlapati@students.iiit.ac.in" },
+    "189": { "name": "Manohar Ch. P", "email": "ahanahyd5013@gmail.com" },
+    "190": { "name": "Manoj Kumar K", "email": "keerthana.korlapati@students.iiit.ac.in" },
+    "191": { "name": "Meenakshi V", "email": "ahanahyd5013@gmail.com" },
+    "192": {
+      "name": "Mohammed Imtiyaz Shareef",
+      "email": "keerthana.korlapati@students.iiit.ac.in"
+    },
+    "193": { "name": "Mohana Vamsi U", "email": "ahanahyd5013@gmail.com" },
+    "194": { "name": "Muralidhar G", "email": "keerthana.korlapati@students.iiit.ac.in" },
+    "195": { "name": "Murthy P L", "email": "ahanahyd5013@gmail.com" },
+    "196": {
+      "name": "Nadeem Hussain Mohd",
+      "email": "keerthana.korlapati@students.iiit.ac.in"
+    },
+    "197": { "name": "Nagamani N", "email": "ahanahyd5013@gmail.com" },
+    "198": { "name": "Nalini Kumar P", "email": "keerthana.korlapati@students.iiit.ac.in" },
+    "199": { "name": "Narayana D", "email": "ahanahyd5013@gmail.com" },
+    "200": {
+      "name": "Prabhakar Mootakoori",
+      "email": "keerthana.korlapati@students.iiit.ac.in"
+    },
+    "201": {
+      "name": "Prabhakar Nampalli",
+      "email": "ahanahyd5013@gmail.com"
+    },
+    "202": { "name": "Prashant Ranjan", "email": "keerthana.korlapati@students.iiit.ac.in" },
+    "203": { "name": "Prathima M V L", "email": "keerthana.korlapati@students.iiit.ac.in" },
+    "204": {
+      "name": "Preetham Raj Ramraj",
+      "email": "ahanahyd5013@gmail.com"
+    },
+    "205": { "name": "Purnavathi P", "email": "keerthana.korlapati@students.iiit.ac.in" },
+    "206": { "name": "Pushpalatha B", "email": "ahanahyd5013@gmail.com" },
+    "207": { "name": "Raghu Kamani", "email": "keerthana.korlapati@students.iiit.ac.in" },
+    "208": { "name": "Ramana V V", "email": "ahanahyd5013@gmail.com" },
+    "209": { "name": "Rambabu P V S", "email": "keerthana.korlapati@students.iiit.ac.in" },
+    "210": {
+      "name": "Rambha Surya Satyanarayana",
+      "email": "ahanahyd5013@gmail.com"
+    },
+    "211": { "name": "Saidulu P", "email": "keerthana.korlapati@students.iiit.ac.in" },
+    "212": { "name": "Sailaja N", "email": "ahanahyd5013@gmail.com" },
+    "213": { "name": "Sammaiah Reddy", "email": "keerthana.korlapati@students.iiit.ac.in" },
+    "214": {
+      "name": "Santosh Kumar Ladi",
+      "email": "ahanahyd5013@gmail.com"
+    },
+    "215": {
+      "name": "Sathish Kumar Palasa",
+      "email": "keerthana.korlapati@students.iiit.ac.in"
+    },
+    "216": { "name": "Satish Kumar G", "email": "ahanahyd5013@gmail.com" },
+    "217": { "name": "Satish Kumar K", "email": "keerthana.korlapati@students.iiit.ac.in" },
+    "218": { "name": "Shaik Silar", "email": "ahanahyd5013@gmail.com" },
+    "219": { "name": "Shanmukh Rao P", "email": "keerthana.korlapati@students.iiit.ac.in" },
+    "220": { "name": "Sridhar Kora", "email": "ahanahyd5013@gmail.com" },
+    "221": { "name": "Srikanth Gundu", "email": "keerthana.korlapati@students.iiit.ac.in" },
+    "222": { "name": "Srikanth K", "email": "ahanahyd5013@gmail.com" },
+    "223": { "name": "Srikanth P", "email": "keerthana.korlapati@students.iiit.ac.in" },
+    "224": { "name": "Srinivas K", "email": "ahanahyd5013@gmail.com" },
+    "225": { "name": "Srinivasarao G", "email": "keerthana.korlapati@students.iiit.ac.in" },
+    "226": { "name": "Srinivasulu V A", "email": "ahanahyd5013@gmail.com" },
+    "227": { "name": "Sriranjani K", "email": "keerthana.korlapati@students.iiit.ac.in" },
+    "228": { "name": "Sunory Dutt", "email": "ahanahyd5013@gmail.com" },
+    "229": {
+      "name": "Vamsi Krishna Nelluri",
+      "email": "keerthana.korlapati@students.iiit.ac.in"
+    },
+    "230": {
+      "name": "Vatala Venkata Nagaraju",
+      "email": "ahanahyd5013@gmail.com"
+    },
+    "231": { "name": "Veda P", "email": "keerthana.korlapati@students.iiit.ac.in" },
+    "232": {
+      "name": "Venkata Naga Durga Valli Ch",
+      "email": "ahanahyd5013@gmail.com"
+    },
+    "233": {
+      "name": "Venkata Seshu Kumar",
+      "email": "keerthana.korlapati@students.iiit.ac.in"
+    },
+    "234": { "name": "Venugopal M", "email": "ahanahyd5013@gmail.com" },
+    "235": {
+      "name": "Venugopal Reddy K",
+      "email": "keerthana.korlapati@students.iiit.ac.in"
+    },
+    "236": { "name": "Vijaya Sekhar K S", "email": "ahanahyd5013@gmail.com" }
+  }
+}

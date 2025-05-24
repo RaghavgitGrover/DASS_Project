@@ -1,0 +1,41 @@
+[
+  {
+    "username": "a",
+    "email": "a@gmail.com",
+    "password": "$2b$10$VAApwmU/UMgLUoD80vORlukH1xZODRlFEtHzgJHeRRltBTJhIaHOW",
+    "createdAt": "2025-03-16T12:31:30.041Z",
+    "lastLogin": "2025-03-19T06:03:41.941Z"
+  },
+  {
+    "username": "ahana",
+    "email": "ahana@iiit.ac.in",
+    "password": "$2b$10$H16R0MVpCq/BQK5.gwWeNOOKpRV6VUyPVBRVhNOdcx/1ZXn62H97u",
+    "createdAt": "2025-03-16T19:10:26.456Z",
+    "lastLogin": "2025-03-17T19:35:04.300Z"
+  },
+  {
+    "email": "ahana.talukdar@research.iiit.ac.in",
+    "username": "ahana.talukdar",
+    "createdAt": "2025-03-16T19:43:39.070Z",
+    "lastLogin": "2025-03-18T07:49:54.487Z"
+  },
+  {
+    "email": "himani.das@research.iiit.ac.in",
+    "username": "himani.das",
+    "createdAt": "2025-03-17T19:23:31.649Z",
+    "lastLogin": "2025-04-16T07:16:02.690Z"
+  },
+  {
+    "email": "raghav.grover@students.iiit.ac.in",
+    "username": "raghav.grover",
+    "createdAt": "2025-03-18T00:22:23.190Z",
+    "lastLogin": "2025-04-17T10:05:39.271Z"
+  },
+  {
+    "id": "b0eb3676-adae-4a35-99f9-5ce5652d92ab",
+    "email": "himani.das@research.iiit.ac.in@iiit.ac.in",
+    "username": "himani.das@research.iiit.ac.in",
+    "createdAt": "2025-04-09T09:32:52.537Z",
+    "lastLogin": "2025-04-16T06:59:42.195Z"
+  }
+]

@@ -1,0 +1,264 @@
+{
+    "Applications": {
+        "1": {
+            "rollnumber": "2019101115",
+            "coursecode": "CS1.306",
+            "coursename": "Numerical Algorithms"
+        },
+        "2": {
+            "rollnumber": "2020101054",
+            "coursecode": "CS1.306",
+            "coursename": "Numerical Algorithms"
+        },
+        "3": {
+            "rollnumber": "2020111003",
+            "coursecode": "CS1.306",
+            "coursename": "Numerical Algorithms"
+        },
+        "4": {
+            "rollnumber": "2020121004",
+            "coursecode": "CS1.306",
+            "coursename": "Numerical Algorithms"
+        },
+        "5": {
+            "rollnumber": "2023101006",
+            "coursecode": "CS1.306",
+            "coursename": "Numerical Algorithms"
+        },
+        "6": {
+            "rollnumber": "2023101009",
+            "coursecode": "CS1.306",
+            "coursename": "Numerical Algorithms"
+        },
+        "7": {
+            "rollnumber": "2023101015",
+            "coursecode": "CS1.306",
+            "coursename": "Numerical Algorithms"
+        },
+        "8": {
+            "rollnumber": "2023101019",
+            "coursecode": "CS1.306",
+            "coursename": "Numerical Algorithms"
+        },
+        "9": {
+            "rollnumber": "2023101025",
+            "coursecode": "CS1.306",
+            "coursename": "Numerical Algorithms"
+        },
+        "10": {
+            "rollnumber": "2023101031",
+            "coursecode": "CS1.306",
+            "coursename": "Numerical Algorithms"
+        },
+        "11": {
+            "rollnumber": "2023101037",
+            "coursecode": "CS1.306",
+            "coursename": "Numerical Algorithms"
+        },
+        "12": {
+            "rollnumber": "2023101046",
+            "coursecode": "CS1.306",
+            "coursename": "Numerical Algorithms"
+        },
+        "13": {
+            "rollnumber": "2023101051",
+            "coursecode": "CS1.306",
+            "coursename": "Numerical Algorithms"
+        },
+        "14": {
+            "rollnumber": "2023101059",
+            "coursecode": "CS1.306",
+            "coursename": "Numerical Algorithms"
+        },
+        "15": {
+            "rollnumber": "2023101061",
+            "coursecode": "CS1.306",
+            "coursename": "Numerical Algorithms"
+        },
+        "16": {
+            "rollnumber": "2023101062",
+            "coursecode": "CS1.306",
+            "coursename": "Numerical Algorithms"
+        },
+        "17": {
+            "rollnumber": "2023101069",
+            "coursecode": "CS1.306",
+            "coursename": "Numerical Algorithms"
+        },
+        "18": {
+            "rollnumber": "2023101071",
+            "coursecode": "CS1.306",
+            "coursename": "Numerical Algorithms"
+        },
+        "19": {
+            "rollnumber": "2023101072",
+            "coursecode": "CS1.306",
+            "coursename": "Numerical Algorithms"
+        },
+        "20": {
+            "rollnumber": "2023101075",
+            "coursecode": "CS1.306",
+            "coursename": "Numerical Algorithms"
+        },
+        "21": {
+            "rollnumber": "2023101078",
+            "coursecode": "CS1.306",
+            "coursename": "Numerical Algorithms"
+        },
+        "22": {
+            "rollnumber": "2023101079",
+            "coursecode": "CS1.306",
+            "coursename": "Numerical Algorithms"
+        },
+        "23": {
+            "rollnumber": "2023101080",
+            "coursecode": "CS1.306",
+            "coursename": "Numerical Algorithms"
+        },
+        "24": {
+            "rollnumber": "2023101083",
+            "coursecode": "CS1.306",
+            "coursename": "Numerical Algorithms"
+        },
+        "25": {
+            "rollnumber": "2023101086",
+            "coursecode": "CS1.306",
+            "coursename": "Numerical Algorithms"
+        },
+        "26": {
+            "rollnumber": "2023101091",
+            "coursecode": "CS1.306",
+            "coursename": "Numerical Algorithms"
+        },
+        "27": {
+            "rollnumber": "2023101094",
+            "coursecode": "CS1.306",
+            "coursename": "Numerical Algorithms"
+        },
+        "28": {
+            "rollnumber": "2023101100",
+            "coursecode": "CS1.306",
+            "coursename": "Numerical Algorithms"
+        },
+        "29": {
+            "rollnumber": "2023101108",
+            "coursecode": "CS1.306",
+            "coursename": "Numerical Algorithms"
+        },
+        "30": {
+            "rollnumber": "2023101110",
+            "coursecode": "CS1.306",
+            "coursename": "Numerical Algorithms"
+        },
+        "31": {
+            "rollnumber": "2023101114",
+            "coursecode": "CS1.306",
+            "coursename": "Numerical Algorithms"
+        },
+        "32": {
+            "rollnumber": "2023101116",
+            "coursecode": "CS1.306",
+            "coursename": "Numerical Algorithms"
+        },
+        "33": {
+            "rollnumber": "2023101117",
+            "coursecode": "CS1.306",
+            "coursename": "Numerical Algorithms"
+        },
+        "34": {
+            "rollnumber": "2023101119",
+            "coursecode": "CS1.306",
+            "coursename": "Numerical Algorithms"
+        },
+        "35": {
+            "rollnumber": "2023101121",
+            "coursecode": "CS1.306",
+            "coursename": "Numerical Algorithms"
+        },
+        "36": {
+            "rollnumber": "2023101127",
+            "coursecode": "CS1.306",
+            "coursename": "Numerical Algorithms"
+        },
+        "37": {
+            "rollnumber": "2023101128",
+            "coursecode": "CS1.306",
+            "coursename": "Numerical Algorithms"
+        },
+        "38": {
+            "rollnumber": "2023101133",
+            "coursecode": "CS1.306",
+            "coursename": "Numerical Algorithms"
+        },
+        "39": {
+            "rollnumber": "2023111011",
+            "coursecode": "CS1.306",
+            "coursename": "Numerical Algorithms"
+        },
+        "40": {
+            "rollnumber": "2023111012",
+            "coursecode": "CS1.306",
+            "coursename": "Numerical Algorithms"
+        },
+        "41": {
+            "rollnumber": "2023111014",
+            "coursecode": "CS1.306",
+            "coursename": "Numerical Algorithms"
+        },
+        "42": {
+            "rollnumber": "2023111016",
+            "coursecode": "CS1.306",
+            "coursename": "Numerical Algorithms"
+        },
+        "43": {
+            "rollnumber": "2023111035",
+            "coursecode": "CS1.306",
+            "coursename": "Numerical Algorithms"
+        },
+        "44": {
+            "rollnumber": "2023111037",
+            "coursecode": "CS1.306",
+            "coursename": "Numerical Algorithms"
+        },
+        "45": {
+            "rollnumber": "2024121002",
+            "coursecode": "CS1.306",
+            "coursename": "Numerical Algorithms"
+        },
+        "46": {
+            "rollnumber": "2024121003",
+            "coursecode": "CS1.306",
+            "coursename": "Numerical Algorithms"
+        },
+        "47": {
+            "rollnumber": "2024121004",
+            "coursecode": "CS1.306",
+            "coursename": "Numerical Algorithms"
+        },
+        "48": {
+            "rollnumber": "2024121005",
+            "coursecode": "CS1.306",
+            "coursename": "Numerical Algorithms"
+        },
+        "49": {
+            "rollnumber": "2024121006",
+            "coursecode": "CS1.306",
+            "coursename": "Numerical Algorithms"
+        },
+        "50": {
+            "rollnumber": "2024121007",
+            "coursecode": "CS1.306",
+            "coursename": "Numerical Algorithms"
+        },
+        "51": {
+            "rollnumber": "2024121009",
+            "coursecode": "CS1.306",
+            "coursename": "Numerical Algorithms"
+        },
+        "52": {
+            "rollnumber": "2024121012",
+            "coursecode": "CS1.306",
+            "coursename": "Numerical Algorithms"
+        }
+    }
+}

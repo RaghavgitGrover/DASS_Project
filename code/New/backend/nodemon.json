@@ -1,0 +1,6 @@
+{
+  "watch": ["*.js"],
+  "ext": "js",
+  "ignore": ["*.test.js", "*.spec.js"],
+  "exec": "node new_server.js"
+}

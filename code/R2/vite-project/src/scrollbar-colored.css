@@ -1,0 +1,44 @@
+/* Custom colored scrollbars for Invigilation Details Dialog */
+.scrollbar-colored {
+  scrollbar-width: thin;
+  scrollbar-color: #a0aec0 #e0e7ef;
+}
+
+.scrollbar-colored::-webkit-scrollbar {
+  width: 10px;
+  background: #e0e7ef;
+  border-radius: 6px;
+}
+
+.scrollbar-colored::-webkit-scrollbar-thumb {
+  background: #a0aec0;
+  border-radius: 6px;
+}
+
+.bg-blue-50.scrollbar-colored::-webkit-scrollbar {
+  background: #eff6ff;
+}
+.bg-blue-50.scrollbar-colored::-webkit-scrollbar-thumb {
+  background: #60a5fa;
+}
+
+.bg-green-50.scrollbar-colored::-webkit-scrollbar {
+  background: #f0fdf4;
+}
+.bg-green-50.scrollbar-colored::-webkit-scrollbar-thumb {
+  background: #34d399;
+}
+
+.bg-gray-50.scrollbar-colored::-webkit-scrollbar {
+  background: #f9fafb;
+}
+.bg-gray-50.scrollbar-colored::-webkit-scrollbar-thumb {
+  background: #a0aec0;
+}
+
+.bg-gray-100.scrollbar-colored::-webkit-scrollbar {
+  background: #f3f4f6;
+}
+.bg-gray-100.scrollbar-colored::-webkit-scrollbar-thumb {
+  background: #a0aec0;
+}
